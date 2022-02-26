@@ -1,0 +1,1758 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Principiis obsta. The readie vvay to prevent sin By William Bagshaw.</title>
+            <author>Bagshawe, William, 1628-1702.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 91 KB of XML-encoded text transcribed from 47 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77299</idno>
+            <idno type="STC">Wing B433A</idno>
+            <idno type="STC">ESTC R232407</idno>
+            <idno type="EEBO-CITATION">99900207</idno>
+            <idno type="PROQUEST">99900207</idno>
+            <idno type="VID">137604</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77299)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137604)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2542:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Principiis obsta. The readie vvay to prevent sin By William Bagshaw.</title>
+                  <author>Bagshawe, William, 1628-1702.</author>
+               </titleStmt>
+               <extent>[2], 48, 41 [i.e. 43], [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Parkhurst, and are to be sold at the sign of the Bible and Three Crowns in Cheapside,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes with caption title and separate pagination: A bridle for the tongue. The register is continuous.</note>
+                  <note>Page 43 is misnumbered "41".</note>
+                  <note>Reproduction of original in the Glasgow University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian literature --  Early works to 1800.</term>
+               <term>Sin --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137604:1"/>
+            <pb facs="tcp:137604:1" rendition="simple:additions"/>
+            <p>
+               <hi>Principiis Obſta.</hi>
+            </p>
+            <p>THE Readie Way TO PREVENT SIN.</p>
+            <p>By <hi>William Bagſhaw.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Parkhurſt,</hi> and are to be ſold at the Sign of the <hi>Bible</hi> and <hi>Three Crowns</hi> in <hi>Cheap<g ref="char:EOLhyphen"/>ſide.</hi> 1671.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:137604:2"/>
+            <pb facs="tcp:137604:2"/>
+            <head>THE READY WAY TO Prevent Sin.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Prov. 30.32.</hi>
+                  </bibl>
+                  <p>Or if thou haſt thought evil, lay thine hand upon thy mouth.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Hat thoughts are free, is a Proverb, but it is none of <hi>Solomon</hi>'s. It is nigh to many (even in their mouths) but it is far from truth; as is evident from other Texts, and ſhall (the Lord aſſiſting) be evidenced from this Text, which calleth aloud on man to call him<g ref="char:EOLhyphen"/>ſelf in queſtion, for his very thoughts.</p>
+            <p>Herein notice is to be taken.</p>
+            <p n="1">
+               <pb n="2" facs="tcp:137604:3"/> 1. Of an Antecedent, which hath the form or face of a Suppo<g ref="char:EOLhyphen"/>ſition.</p>
+            <div type="part">
+               <head>If thou haſt thought evil.</head>
+               <p n="2">2. Of a Conſequent, which hath the force and authority of an Impoſition.</p>
+            </div>
+            <div type="part">
+               <head>Lay thine hand upon thy mouth.</head>
+               <p>I ſay, the firſt words have the face of a Suppoſition, becauſe I think they have no more than ſo, in the reſpect which I ſhall next name.</p>
+               <p>It is not to be ſuppoſed, that the higheſt attainers, or cloſeſt walkers, on earth, are wholly exempt and free from evil in their thoughts.</p>
+               <p>Who can ſay, (and ſay true) <hi>I have made my heart clean?</hi>
+                  <note place="margin">Prov. 20.9</note>
+               </p>
+               <p>The <hi>If</hi> in the beginning of the Text may be there,
+<note place="margin">Si ratioci<g ref="char:EOLhyphen"/>nantis.</note> as it is elſe<g ref="char:EOLhyphen"/>where, argumentative, and may import the Reaſon or Cauſe why men ſhould lay their hands upon their mouths, to wit, becauſe they have thought evil. Such a kind
+<pb n="3" facs="tcp:137604:3"/>of <hi>If</hi> is found in ſundry Scriptures, particularly in that ſpeech of <hi>Ha<g ref="char:EOLhyphen"/>man</hi>'s Wife and Friends,
+<note place="margin">Eſther 6.13: Rom. 8.31</note> 
+                  <hi>If</hi> Mor<g ref="char:EOLhyphen"/>decai <hi>be of the ſeed of the Jews, thou ſhalt not prevail againſt him.</hi> Sure it was, and ſure they might be, that he was of that ſeed, and they intimate to <hi>Haman</hi> in a pru<g ref="char:EOLhyphen"/>dential (I will not ſay propheti<g ref="char:EOLhyphen"/>cal) way, that becauſe he had be<g ref="char:EOLhyphen"/>gun to fall before one of that ſtock, there would now be no ſtanding before him.</p>
+               <p>Or the <hi>If</hi> which I am treating of may be looked at as determi<g ref="char:EOLhyphen"/>ning,
+<note place="margin">Si deter<g ref="char:EOLhyphen"/>minantis.</note> ſetting down the ſeaſon or nick of time when the hand is to be laid upon the mouth,
+<note place="margin">See <hi>Taylo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> upon Pro. 1.10.</note> to wit, as ſoon as ever an evil thought is riſen in the heart; and it is ob<g ref="char:EOLhyphen"/>ſerved, that the Hebrew Particle tranſlated if in this place, is tranſ<g ref="char:EOLhyphen"/>lated <hi>When,</hi> in another place, quo<g ref="char:EOLhyphen"/>ted in the Margent.
+<note place="margin">Amos 7.2.</note> 
+                  <hi>When they had made an end of eating the graſs of the Land, I ſaid, O Lord God forgive.</hi>
+               </p>
+               <pb n="4" facs="tcp:137604:4"/>
+               <p> Laying the hand upon the mouth is a Rite or Ceremony ſeve<g ref="char:EOLhyphen"/>ral times mentioned in holy Writ, which ſeems to have its foundati<g ref="char:EOLhyphen"/>on in Nature, and is apt to ſignifie the ſorrow and ſhame of him that is the uſer and obſerver of it. Concerning the ſignificancy of it here, I ſhall ſpeak more at large in the handling of that Doctrine, un<g ref="char:EOLhyphen"/>to which I ſhall now addreſs my ſelf.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>
+                  </label> As ſoon as ever an evil thought is riſen in our hearts, we ought forthwith to lay our hands upon our mouths.</head>
+               <p>Thoughts have been (and may be) diſtinguiſhed.
+<note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y Doctor <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>urſtow</hi> in Sermon <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> St. <hi>Ma<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>es</hi> upon ſai. 55.7.</note>
+               </p>
+               <p>We may treat of thoughts in a larger acception, as taking in all the affections and inward work<g ref="char:EOLhyphen"/>ings of the Soul, as differenced from outward actions and works of the Body. In this ſenſe we
+<pb n="5" facs="tcp:137604:4"/>read of them, where the Lord ſaith of Idolaters,
+<note place="margin">Iſai. 66.13.</note> that <hi>He know<g ref="char:EOLhyphen"/>eth their works and their thoughts.</hi>
+               </p>
+               <p>I ſhall eſpecially conſider them as they are conſidered more ſtrict<g ref="char:EOLhyphen"/>ly and narrowly,
+<note place="margin">Cogitatio eſt actio mentis. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Luke 11.17. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, Acts 8.22</note> as taken for the actings or muſings of the mind, and it is clear, that the words which are uſed by the Greeks for thoughts do imply, that they are things of the minds making or framing.</p>
+            </div>
+            <div type="part">
+               <head>As for the <hi>phraſe</hi> of thinking <hi>evil.</hi>
+               </head>
+               <p>I am not ignorant that ſome Interpreters, comparing the Text with the Context, incline to think, that ſome ſpecial notorious evils are hinted and pointed at.</p>
+               <p>Some refer it to the evil men<g ref="char:EOLhyphen"/>tioned in the former part of the verſe, and judge that proud and ſelf-exalting thoughts are under<g ref="char:EOLhyphen"/>ſtood.</p>
+               <p>Others look ſtill further back to the former verſe,
+<note place="margin">Engliſh Annota<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ons <hi>in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi>
+                  </note> and apprehend that ſeditious thoughts, thoughts
+<pb n="6" facs="tcp:137604:5"/>againſt the King are intended.</p>
+               <p>Others would carry the evil here mentioned,
+<note place="margin">Dutch Annot.</note> to the wrath men<g ref="char:EOLhyphen"/>tioned in the verſe following, as if wrathful thoughts were principal<g ref="char:EOLhyphen"/>ly ſtruck at.</p>
+               <p>I no way doubt, but thoughts ſo vile as theſe inſtanced in are comprehended, and I will not gain<g ref="char:EOLhyphen"/>ſay them who ſay, that ſuch thoughts are firſt aimed at; yet I ſee no reaſon to reſtrain the Text to evil thoughts of one ſort, or to vary from thoſe who expound it of evil thoughts of all ſorts.</p>
+            </div>
+            <div type="part">
+               <head>If we think any evil, our hands are to be laid on our mouths, and ſo I ſhall indeavour to reſolve theſe two Queſti<g ref="char:EOLhyphen"/>ons.</head>
+               <p n="1">1. What may laying the hand on the mouth import?</p>
+               <p n="2">2. Why ſhould we lay our hands on our mouths when we have thought evil?</p>
+               <pb n="7" facs="tcp:137604:5"/>
+               <p> As for the former, the phraſe I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umbly conceive may be con<g ref="char:EOLhyphen"/>ceived as looking backwards, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s looking forwards.</p>
+               <p n="1">1. As it looketh backwards on <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he thought which hath been evil, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t may imply conviction in the head, contrition in the heart, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onfuſion in the face.</p>
+               <p n="1">1. Laying the hand on the mouth intimateth, that the perſon who uſeth it is under a true and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ull conviction of the ſinfulneſs of thought-ſins,
+<note place="margin">See <hi>Biſcoe</hi> on the thoughts, Page 278.</note> freely voting with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he law in condemning them, and himſelf for them, deſpairing of making ſatisfaction to God for the injury offered to his righteouſneſs <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y them.
+<note place="margin">Rom. 3.19.</note> In this ſenſe doth bleſ<g ref="char:EOLhyphen"/>ſed <hi>Paul</hi> ſpeak of every mouth <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eing ſtopped. It was the fault of our firſt Parents, to open their mouths in excuſe of their fault, this ſin is too too much heredita<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, and followed by their children, but the Text ſheweth an excellent way.</p>
+               <p n="2">
+                  <pb n="8" facs="tcp:137604:6"/> 2. Laying the hand on th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mouth is to teſtifie, that he wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hath thought evil, hath his hear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſo full of ſorrow for his ſo think<g ref="char:EOLhyphen"/>ing, that he cannot eaſily vent it As ſmiting on the thigh, and a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> laying the mouth in the duſt, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> laying the hand on the mouth <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> (as one ſaith) a penitential ge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſture;
+<note place="margin">Re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ner's Rule.</note> thus we may underſtand tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> phraſe of <hi>Job,</hi> where the holy ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> having acknowledged himſel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vile (even to wonderment) pro<g ref="char:EOLhyphen"/>feſſeth his purpoſe to lay his han<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> on his mouth,
+<note place="margin">Job 40.4.</note> as betokening th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> depth of his ſelf-abaſement.</p>
+               <p n="3">3.
+<note place="margin">Manum ori impo<g ref="char:EOLhyphen"/>nere, eſt coram ho<g ref="char:EOLhyphen"/>minibus confundi <hi>Pelican in loc.</hi>
+                  </note> As the poſture under conſi<g ref="char:EOLhyphen"/>deration denoteth the depth o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſelf-abaſement, ſo it withall de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>noteth the height of ſhame, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thus the phraſe is uſed, where th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lord telleth us, that <hi>Iſrael</hi> ſhall b<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> confounded, and never open he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mouth more, becauſe of her ſhame when he is pacified towards her <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Thus <hi>Job</hi> bids his ſmall friends la<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <note place="margin">Job 21.5.</note>
+                  <pb n="9" facs="tcp:137604:6"/>their hands on their mouths (for <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me that they had ſo miſplaced <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ir words) and be aſtoniſhed. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce ſin entred into the world, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ld-like ſhame hath been one of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> beſt attendants, and it is that <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ich aggravateth the injuſtice of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e unjuſt, he knoweth no ſhame;
+<note place="margin">Zeph. 3.5:</note> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hath not ſo much of the colour <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> vertue, as bluſhing is, to be ſeen <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him.</p>
+               <p n="2">2. As laying the hand on the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>outh looketh forward, ſo it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ldeth forth a ſtaying and ſtop<g ref="char:EOLhyphen"/>ing of ſins progreſs.
+<note place="margin">Principiis obſta. See the Dutch Annotat.</note> If ſin have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ade its way into the thought, it <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> high time that ſuch a bad be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inning ſhould be withſtood, that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uch a Cockatrice ſhould be cruſh<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in the egg. When <hi>Job</hi> had <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id,
+<note place="margin">Job 40.4, 5.</note> 
+                  <hi>he would lay his hand on his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>outh,</hi> that we may better reach <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is meaning, he addeth, <hi>Once have <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſpoken, yea twice, but I will pro<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eed no further,</hi> that is, to ſpeak (as he had done) that he under<g ref="char:EOLhyphen"/>ſtood
+<pb n="10" facs="tcp:137604:7"/>not, things too wonderful <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him, which he knew not. Sin <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the heart will quickly be an<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> break out of the mouth, if it <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not oppoſed; and therefo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> there muſt be a riſing againſt th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> firſt riſings of it. It is no mo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> than enough, that there hath be<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a thinking of evil, all care muſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> had that it be not ſpoken, or p<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> in practice.</p>
+            </div>
+            <div type="part">
+               <head>The reaſons or reaſonablene<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of this Doctrine I ſha<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> now touch on.</head>
+               <p n="1">1. Thought-ſins are the imme<g ref="char:EOLhyphen"/>diate iſſues of original ſin.</p>
+               <p>Thought-ſins are (as one phra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſeth it) the <hi>Reubens</hi> of mans cor<g ref="char:EOLhyphen"/>rupted nature, the ſtrength there of appeareth in them. The Spi<g ref="char:EOLhyphen"/>rit ſpeaks expreſly,
+<note place="margin">Mat. 15.9.</note> that out of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> heart (not as created, but as cor<g ref="char:EOLhyphen"/>rupted) proceed evil thoughts theſe proceed firſt. Seeing the<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="11" facs="tcp:137604:7"/>that when one of theſe ſtreams is <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſight, the filthy fountain may <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſeen in it, ſhall not this ſight <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſe ſorrow and ſhame? Seeing <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is inbred enemy is at work, we <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d need with might and main to <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>fiſt it, eſpecially conſidering <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat follows.</p>
+               <p n="2">2. The worſt of other ſins are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e iſſues of thought-ſins.</p>
+               <p>When evil thoughts have pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eded out of the heart,
+<note place="margin">Mat. 15.19.</note> then from <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em do proceed murders, adul<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ries, yea, and blaſphemies.</p>
+               <p>The greateſt actual evil that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver man committed was firſt a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ttle thought. Thoughts are to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he ſoul, as boughs are to a tree, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he fruit of a tree grows immedi<g ref="char:EOLhyphen"/>tely on the boughs, and ſo the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctions and outward works which <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re from the ſoul, do flow immedi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tely from the thoughts. Surely <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen there is all reaſon, when we <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave thought evil, that we ſhould forthwith be humbled, and be<g ref="char:EOLhyphen"/>ware
+<pb n="12" facs="tcp:137604:8"/>of any further proceſs; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> who knoweth what evil an e<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> thought may bring forth? It truly obſerved, that ſin is acti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and when it is acting (if not p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>vented) it would act to its u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> moſt;
+<note place="margin">See Doctor <hi>Owen</hi> of Mortifica<g ref="char:EOLhyphen"/>tion.</note> every wrathful thoug<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tends towards murder, and eve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> unclean thought would be adu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tery.</p>
+               <p>The reaſon which I ſhall nam<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> laſt I might have named firſt.</p>
+               <p n="3">3. The order which is given <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Text, was given from Heave<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Laying the hand on the mouth when evil is ariſen in the heart, is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> courſe which hath Gods Com<g ref="char:EOLhyphen"/>mand for its footing. Shall no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> we obſerve what God appoints <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Shall not our wills in obeying fol<g ref="char:EOLhyphen"/>low Gods will in enjoyning? <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> was the man after Gods heart, who fulfilled all his wills.</hi>
+                  <note place="margin">Acts 13.20.</note> We have violated Divine laws in thinking evil, and ſhall we add iniquity t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> iniquity? Shall we ſlight Divine
+<pb n="13" facs="tcp:137604:8"/>authority further in neglecting <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat abaſing of our ſelves, that re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſting of our ſins, which under <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his notion of laying our hands on <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur mouths is required? Surely <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he words which God ſpeaks are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pirit and life, and to thoſe of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is, who conſcientiouſly comply with this word, eminent power againſt ſin will be communicated.
+<note place="margin">Iſai. 40. laſt.</note> They who herein wait on the Lord ſhall renew their ſtrength.</p>
+            </div>
+            <div type="part">
+               <head>The good Lord help you and me to make a right applica<g ref="char:EOLhyphen"/>tion of this Point, and to lay to our hearts:</head>
+               <p n="1">1.
+<note place="margin">Firſt Inſe<g ref="char:EOLhyphen"/>rence.</note> That ſin is of an exceeding odious nature.</p>
+               <p>Sin when it is but framing or faſhioning in the thought of a perſon, is (as you have heard) matter of the deepeſt abaſement. Sin admitteth of ſeveral degrees, and the very leaſt and loweſt de<g ref="char:EOLhyphen"/>gree
+<pb n="14" facs="tcp:137604:9"/>of it beſpeaketh the ſwelling up of godly ſorrow, to a very great height. Not only ſin when it is
+<note n="*" place="margin">James 1.15. See <hi>Dick<g ref="char:EOLhyphen"/>ſon in loc.</hi>
+                  </note> perfected and put into outward act, but when it is conceived in the heart, is bitterly to be bewail<g ref="char:EOLhyphen"/>ed.</p>
+               <p>Oh that I could, and when <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cannot, that God would ſhew ſin to Readers in its own colours, that they might dread approaches to, and ſhun the appearance of ſuch an evil!</p>
+               <p n="2">2.
+<note place="margin">The ſe<g ref="char:EOLhyphen"/>cond Inſe<g ref="char:EOLhyphen"/>rence. <hi>Vide Dave<g ref="char:EOLhyphen"/>nantium in Coloſs.</hi> p. 284.</note> Our Divines are in the right, who maintain againſt the Papiſts, that concupiſcence, luſt, or the firſt motion and ſtirring of the heart towards that which God hath forbidden, is ſin. An evil thought (though the Soul do not give its full conſent to the evil which is thought) hath in it the nature of tranſgreſſion, and not of affliction only.</p>
+               <p n="1">1. The Commandment of God is exceeding broad, and bindeth
+<pb n="15" facs="tcp:137604:9"/>the moſt ſecret thoughts and mo<g ref="char:EOLhyphen"/>tions of the heart. As one Com<g ref="char:EOLhyphen"/>mandment doth ſay in ſo many words, Thou ſhalt not luſt,
+<note place="margin">Rom. 7.7.</note> ſo all the Commandments, which do expreſly forbid the acting of ſin, do virtually and by conſequence forbid that thinking of it, which hath any tendency to it.</p>
+               <p n="2">2. Luſt, concupiſcence,
+<note place="margin">Col. 3.5. Cur mor<g ref="char:EOLhyphen"/>tificandum dicit Apo<g ref="char:EOLhyphen"/>ſtolus? non ſic de p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>nis loqui ſolet. <hi>Da<g ref="char:EOLhyphen"/>venant.</hi>
+                  </note> or the firſt ſtirring of the heart ſinwards, is ſuch an evil as is to be mortified. If it had in it only the nature of ſuffering, and not of ſin, it was then to be endured, and not to be abhorred.</p>
+               <p n="3">3.
+<note place="margin">The third Inference.</note> We may from my Doctrine be informed of one reaſon, why ſins prevalency over perſons is ſo great. There are not a few that make large complaints of ſin, and ſeemingly ſtrong vows againſt it, who yet lye lamentably under the power of it. This ſovereign Re<g ref="char:EOLhyphen"/>medy which my Text preſcribeth, is by too too few applied. The
+<pb n="16" facs="tcp:137604:10"/>thoughts of ſin (or ſin of thoughts) the moſt make light of. Theſe are counted (as the Papiſts ſpeak) venial ſins, ſins, which if they need a pardon, will obtain one of courſe, or without ſerious asking it. Sin is a fire which will burn down to the nethermoſt hell, and the ſmoak of it ſhould be trem<g ref="char:EOLhyphen"/>bled at. It is a Serpent which will ſting to eternal death, and at the firſt view it ſhould be fled from. Whileſt perſons do play upon the hole of this Aſp, and on the mouth of this Cockatrices den, whileſt they hug this Traytor in their boſomes, and pleaſe them<g ref="char:EOLhyphen"/>ſelves with the thoughts of it, it hath (and will have) dominion over them.</p>
+               <p n="4">4.
+<note place="margin">The fourth Inference.</note> Surely there's great ground we ſhould all be found with our hands on our mouths. I mean, that we ſhould be found freely and deeply humbling our ſelves. We cannot poſſibly be unfurniſh<g ref="char:EOLhyphen"/>ed
+<pb n="17" facs="tcp:137604:10"/>with matter for mourning, if an evil thought be ſufficient matter for it. The more to affect our hearts, let our eyes be fixed on three particulars.</p>
+               <p n="1">1. Our evil thoughts have been various.</p>
+               <p n="2">2. Our evil thoughts have been numerous.</p>
+               <p n="3">3. The evil which hath been in our thoughts hath not ſtaid or ſtopp'd there.</p>
+               <p n="1">1. Have we not broken both the Tables of Gods Law, yea, and the ſeveral Commandments of thoſe Tables in our thoughts?</p>
+               <p n="1">1. Have we wholly eſcaped Atheiſm in our thoughts? What the thought or heart-language of the Fool (of him who hath no wiſdom to ſalvation) is, we are plainly told,
+<note place="margin">Pſal. 14.1.10.4.</note> 
+                  <hi>God as God</hi> (as un<g ref="char:EOLhyphen"/>ſearchably and inconceivably great and good) <hi>is not in all his thoughts.</hi> His inward thoughts (the thoughts which he would
+<pb n="18" facs="tcp:137604:11"/>faineſt have to be true) is, that there is no ſuch God.
+<note place="margin">Pſal. 50.21</note> Did not perſons think that God was ſuch a one as themſelves, they durſt not partake with Adulterers, eat and drink with the drunken, and ſay to their Gold, thou art our hope. Sure I am, ſundry of Gods choice Servants would kiſs the feet of him that could aſſure them, that no Atheiſtical thought ſhould ever ariſe in them, or be thrown into them. To them thoſe thoughts are matter of abhorrence, which others trouble not at.</p>
+               <p n="2">2. Have we not thought ſome of the Inſtitutions and appointed wayes of Gods Word unneceſſary, unprofitable and weariſom? Have we not ſaid in our hearts,
+<note place="margin">Mal. 3.14, 15.</note> It is in vain to ſerve God, apart from o<g ref="char:EOLhyphen"/>thers, in ſecret Prayer, Meditati<g ref="char:EOLhyphen"/>on and Self-examination, and as partners with others in Morning<g ref="char:EOLhyphen"/>ſervice, in Church-ſervice. If the Table of the Lord be not con<g ref="char:EOLhyphen"/>temptible
+<pb n="19" facs="tcp:137604:11"/>to us, do we not live, as if we could well live without it?</p>
+               <p n="3">3. Have not the ſervices which we have performed to God been attended with much diſtraction? Have we not ſung one thing,
+<note place="margin">Aliud can to, aliud cogito.</note> and thought another thing. Some have ſaid, that notwithſtanding the multitude of Sacrifices in the Temple, there never came Fly there, but ſad experience tells us, that it is otherwiſe in the Temples of our hearts. Oh the flyes of roving thoughts, that have buzzed and been buſie there, whileſt ſpi<g ref="char:EOLhyphen"/>ritual Sacrifices have been offered!
+<note place="margin">Mat. 15.9.</note> Thus far we have taken Gods Name in vain, and worſhipped him in vain, our hearts which ſhould have been broken ones, have been cloven ones;
+<note place="margin">Mal. 1.13</note> we have brought the lame, and the torn, and offered it to God as ſacrifice.</p>
+               <p n="5">5. Have we not found our own pleaſures on Gods holy day, and
+<pb n="20" facs="tcp:137604:12"/>that eminently in the thoughts which we have then entertained,
+<note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſai. 58, 13.</note> which have been, if not unlawful on other dayes, yet unſutable to that day? Have we not thought what others have ſaid?
+<note place="margin">Amos 8.5.</note> When will the new Moon be gone, and the Sabbath? Have not earthly thoughts gotten early admittance into our Souls? Hath not this been one of the wayes whereby Satan hath ſtollen the Word heard out of our hearts, by filling us with thoughts about affairs of another nature.</p>
+               <p n="5">5. Are we all clean from ſedi<g ref="char:EOLhyphen"/>tious thoughts againſt our Ru<g ref="char:EOLhyphen"/>lers, when they have (as we judg<g ref="char:EOLhyphen"/>ed) held an hard hand over us? Some (as I acquainted you) in<g ref="char:EOLhyphen"/>terpret the Text eſpecially of an evil thought of this nature.
+<note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ccleſ. 10.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0.</note> The King may be by ſome (not with<g ref="char:EOLhyphen"/>out their grievous ſin) curſed in a more ſecret Room than that of their Bed-chamber. Have we
+<pb n="21" facs="tcp:137604:12"/>not thought hardly of our Parents for their chiding and ſmiting us, when deſerved by us? Have we paid them the honour of inward reverence, as well as outward obedience?
+<note place="margin">Filius a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> te diem, &amp;c.</note> Have no Children in their thoughts or wiſhes reached at their Parents eſtates over their heads?</p>
+               <p n="6">6. Have not thoughts of a fu<g ref="char:EOLhyphen"/>rious wrathful nature ariſen in us upon ſmall neglects and provoca<g ref="char:EOLhyphen"/>tions? Have not we, who ſhould have been to occaſions of anger, as wet moiſt wood is to ſparks, hardly kindled, been as dry tinder is to them, quickly on a flame?
+<note place="margin">1 Sam. 22.</note> 
+                  <hi>David</hi> himſelf was a great Offen<g ref="char:EOLhyphen"/>der, as he afterwards ſaw, when he thought for <hi>Nabal</hi>'s harſhneſs to have put all the men in his houſe to the ſword.
+<note place="margin">Eph. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> Have we put away from us all bitterneſs and wrath, as well as clamour and evil ſpeaking?</p>
+               <p n="7">
+                  <pb n="22" facs="tcp:137604:13"/> 7.
+<note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om. 13. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</note> Have we not made proviſi<g ref="char:EOLhyphen"/>on for the fleſh, to fulfil the luſts thereof? Have we not ſent out our thoughts as
+<note n="*" place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ee Do<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tor <hi>Good<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>yn</hi> on <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oughts.</note> Caterers to fetch in matter for the gratifying of our corrupt deſires? The Adulterer, who waiteth for the twilight, that he may commit his uncleanneſs, doth at mid-day de<g ref="char:EOLhyphen"/>file his ſpirit with muſings thereon. Have young Perſons kept their breaſts as well as their beds unde<g ref="char:EOLhyphen"/>filed?</p>
+               <p n="8">8. Have none of us been plea<g ref="char:EOLhyphen"/>ſed with thoughts of getting gain over the left ſhoulder? Have we not thought that won which hath been put in purſe, though upon over-reaching our Brother, or ta<g ref="char:EOLhyphen"/>king advantage of his ignorance to make him an hard bargain? Have we not with delight heard of damage that hath befallen ſuch who have injured us? Have we not envied the outward welfare of wicked men, as if God had been
+<pb n="23" facs="tcp:137604:13"/>overſeen in beſtowing ſo much <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>on them.
+<note place="margin">Pſal. 73, 2, 3.</note>
+               </p>
+               <p n="9">9. Have we not too ſoon re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ived and entertained in our <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oughts evil reports, which have <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>en raiſed of others? have we <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t rather through uncharitable<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſs believed them true at firſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>earing, than out of charity ſuſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ended our belief,
+<note place="margin">1 Cor. 13.5</note> till the truth <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ereof hath been made apparent? <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen others gifts and good parts <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ve been praiſed, have we not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ought amiſs of it, and ſecretly <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſhed they had not outſhone us? <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave we not thought meanly of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or betters in Grace, becauſe in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orldly eſtate we have ſomething <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vertopped them?</p>
+               <p n="10">10. Have we not thought our <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elves ſtill on the wrong ſide, or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut of the right place? Have we <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t with <hi>Ahab</hi> thought that <hi>Na<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>th</hi>'s Vineyard lay ſo commodi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſly for us, that we could not be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t eaſe except it was purchaſed?
+<pb n="24" facs="tcp:137604:14" rendition="simple:additions"/>Have we not conceived diſc<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tent, becauſe we apprehended o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſelves ſhort as to ſome outwa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> convenience?
+<note place="margin">Eſth. 5.13.</note> Have not ſome be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> under a ſpice of <hi>Haman</hi>'s diſea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> whoſe honours and abundan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſignified nothing to his conte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ment, whileſt <hi>Mordecai</hi> the J<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> was in the Kings gate? Was <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Jonah</hi> (as ſome ſpeak) a ſtra<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> man of a good man, a very gl<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of humours, who was in a p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> againſt God himſelf,
+<note place="margin">Jonah 4.</note> for his mer<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ful diſpenſation, and preferr'd th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> poor buſineſs of his own repu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> before the lives of the Inhabita<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of <hi>Nineveh</hi> that great City?</p>
+               <p>If we had but ſinned once <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> gainſt every Command in o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thoughts, we ſhould think ſu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſinning did <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> beſpeak our ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> row, ſure then our ſorrow is mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> required, ſeeing that our e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thoughts have been numerou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> yea,
+<note place="margin">Pſal. 19.12</note> innumerable. Who can <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſearching fully find out and und<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſtand
+<pb n="25" facs="tcp:137604:14"/>all his errors in thinking? <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ultitudes, multitudes, of theſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ils have compaſſed us about, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ey are more than the hairs of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r heads, they abound in our <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uls, and if our eyes have been <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iritually anointed, we have ſeen <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>em there as we ſee Moats in or <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Sun: This ſtring I may <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uch on again, and therefore <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>roceed to ſhew, in order to the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reaking of mine own and others <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>earts.</p>
+               <p>That much of the evil which <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ath been in our thoughts hath <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot been ſtaid there, but hath been <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rought forth in our expreſſions <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd actions. From theſe Cocka<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rices eggs have fiery flying Ser<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ents been hatched, actual tranſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reſſions, the ſting whereof hath <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tred into our fouls. Have not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ome of our evil deeds received ſuch fearful aggravations, that the Lord may charge us to have done as evil as we could?
+<note place="margin">Jer: 3.5.</note> Have
+<pb n="26" facs="tcp:137604:15"/>they not been as ſcarlet, yea, red crimſon?</p>
+               <p>If our hearts be not like a pie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the nether Milſtone, the con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> deration of the extream ſinfulne<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of our thought-ſins will fetch o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hands to our mouths; and that might be an Inſtrument in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hand of God to work upon th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> moſt hard-hearted, I ſhall com<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with the rod of reproof to ſever<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſorts of perſons.</p>
+               <p n="1">1.
+<note place="margin">The fifth Inference.</note> They are juſtly reproved who, though as guilty of think<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ing evil as others, are ſo far from laying their hands on thei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mouths, that they open them t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> plead for (at leaſt to excuſe an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> extenuate) their guilt, as if i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was inconſiderable. What ſay they, It was but in thought tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> we have offended; ſuch Moat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Lords eye will over-look: Le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them know from his Word, that his thoughts are not as their thoughts. What they will ſcarce
+<pb n="27" facs="tcp:137604:15"/>call offences,
+<note place="margin">Prov 6.18.15.26.</note> he doth expreſly call <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ominations, and reckons an <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eart that deviſeth wicked ima<g ref="char:EOLhyphen"/>nations, as one of the ſix things <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hich he hateth.</p>
+               <p n="2">2. They alſo fall deſervedly <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nder reproof, who inſtead of lay<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng their hands on their mouths, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen they have thought evil, open <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir mouths to ſpeak of their <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vil thoughts, in a rejoycing way. The poor rich Fool mentioned in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Goſpel, who had had covetous <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>houghts within himſelf,
+<note place="margin">Luke 12.17, 18, 19.</note> could not hold, but declares his great deſigns, which when he hath ac<g ref="char:EOLhyphen"/>compliſhed, he will ſing a <hi>requiem</hi> to his Soul, all the while reckon<g ref="char:EOLhyphen"/>ing without his Hoſt, and not fore<g ref="char:EOLhyphen"/>ſeeing how ſoon his life and plea<g ref="char:EOLhyphen"/>ſant thoughts were to periſh. <hi>It is naught, it is naught, ſaith the buyer,</hi>
+                  <note place="margin">Prov. 20.14.</note> who would beat down the price of a commodity, <hi>but when he is gone he boaſteth.</hi> They that are ſenſual are apt to glory in their
+<pb n="28" facs="tcp:137604:16"/>ſhame, and to ſay we will fill <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſelves with ſtrong drink, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> morrow ſhall be as this day, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> much more abundant.</p>
+               <p>Laſtly, The laſh of reproof fa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>leth upon thoſe, who, when th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> have conceived in their though<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ceaſe not till they have brough<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them forth, and put them in exec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tion.
+<note place="margin">Prov. 4.16,</note> Some ſleep not except the have done miſchief, their ſleep not ſo ſweet, till they have reven<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ged themſelves of ſuch who have croſſed them. <hi>Simeon</hi> and <hi>Lev<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> herein ſhewed themſelves bre<g ref="char:EOLhyphen"/>thren in iniquity, not ſtopping till their fierce fiery wrath had con<g ref="char:EOLhyphen"/>ſumed all the men of <hi>Shechem Abſalom</hi> thought the Crown would fit his own head better than his Fathers, and this vile thought he purſued till Divine Juſtice ſtopp'd him. <hi>David</hi> him<g ref="char:EOLhyphen"/>ſelf went too far towards cutting off <hi>Nabal</hi>'s Family, and avenging himſelf with his own hands.</p>
+               <pb n="29" facs="tcp:137604:16"/>
+               <p> That theſe reproofs may take <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re place, and that evil, whileſt <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>thought, may be more lamented <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d reſiſted, the enſuing Conſide<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tions are preſented as conſide<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble.</p>
+               <p>You can never evidence that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u have real and ſpecial Grace, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll you have a prime regard unto <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our thoughts. This is one of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Touchſtones of true Conver<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion. The true Convert forſakes <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot only his wicked way, but alſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his former thoughts, and to this <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ourſe are wicked ones directed <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y the Finger and Spirit of God.
+<note place="margin">Iſai. 55.7.</note> It is truly ſaid,
+<note n="*" place="margin">Mr. <hi>Ca<g ref="char:EOLhyphen"/>ryl.</hi>
+                  </note> He that is a Saint in thought, he is a Saint indeed. <hi>The thoughts of the righteous are right:</hi>
+                  <note place="margin">Prov. 12.5</note> But he that is heedleſs what he thinks, hath the black brand of unregeneracy upon him. When the people of <hi>Iſrael</hi> walk<g ref="char:EOLhyphen"/>ed after their own thoughts, their way was not good. There are Principles that are ſhort of rege<g ref="char:EOLhyphen"/>neration,
+<pb n="30" facs="tcp:137604:17"/>which may reſtrain m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> from open and external evils. T<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> awe and law of men may cha<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> their hands, whoſe hearts are u<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> changed. He may be tender <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his own diſgrace, who is not te<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>der of Gods diſhonour. Educa<g ref="char:EOLhyphen"/>tion and Examples may have <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> great influence upon mens ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ward carriage.
+<note place="margin">2 Kings 12.2.</note> 
+                  <hi>Jehoaſh</hi> demeane himſelf civilly whileſt <hi>Jehojad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> was his Tutor.
+<note place="margin">Cogitatio<g ref="char:EOLhyphen"/>nis paenam ne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o pa<g ref="char:EOLhyphen"/>titur. <hi>Rogers</hi> on Luke 12.</note> Good words an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> actions may be counterfeited, bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the projects of this heart lye no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> within the walk of humane Ju<g ref="char:EOLhyphen"/>ſtice. Men ſuffer not in theſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> lower Courts meerly for thei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thoughts, theſe things of a man<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> knoweth no other man immedi<g ref="char:EOLhyphen"/>ately; and therefore thoughts have ſomething of peculiarity i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them to diſcover the bent and by<g ref="char:EOLhyphen"/>as of the inward man,
+<note place="margin">Prov. 23.7</note> and as a man thinketh in his heart, ſo is he.</p>
+               <p n="2">2. As light as many make of evil thoughts, it is very evident
+<pb n="31" facs="tcp:137604:17"/>(and hath been hinted) that what they ſeem to want of other <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evils, as to their weight, is over and over made up as to their num<g ref="char:EOLhyphen"/>ber. It is ſaid of <hi>Aholah,</hi>
+                  <note place="margin">Ezek. 23.19.</note> That <hi>ſhe multiplied her whoredomes in calling to remembrance the dayes of her youth, wherein ſhe had played the harlot.</hi> Thought-ſins may be ſpeedily and frequently repeated. He that never hath his hand in his Neighbours blood, may hate him, and ſo murder him many times over. If men ſhould com<g ref="char:EOLhyphen"/>pare an evil thought to a little ſand, yet they may know, that if all their evil thoughts were laid together, they would make a whole Mountain of this ſand, and how heavy muſt that needs be.</p>
+               <p n="3">3. It may not prove ſo eaſie as moſt imagine to obtain the pardon of thought-ſins.
+<note place="margin">Acts 8.21.</note> 
+                  <hi>Simon Peter</hi> ur<g ref="char:EOLhyphen"/>ged <hi>Simon Magus</hi> to pray, <hi>if per<g ref="char:EOLhyphen"/>haps the thought of his heart may be
+<pb n="32" facs="tcp:137604:18"/>forgiven;</hi> which implyeth, that o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all the great evil whereof tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sorcerer was guilty, the though<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of his heart was in ſome ſor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> greateſt; and withall that it was an huge hazard, it was at a per<g ref="char:EOLhyphen"/>haps, whether that thought of his heart fell within the compaſs of a pardon. Certainly wicked mens thoughts are in this reſpect more wicked, becauſe natural conſcience doth leſs gainſay them, and cor<g ref="char:EOLhyphen"/>rupt nature doth more delight in them, they being (as hath been touched) its firſt-born.</p>
+               <p n="4">4. If evil thoughts be not mat<g ref="char:EOLhyphen"/>ter of your humiliation, they will be matter of condemnation. Even in this life the Lord doth not ſel<g ref="char:EOLhyphen"/>dome bring upon people the bit<g ref="char:EOLhyphen"/>ter fruit of their thoughts.
+<note place="margin">Jer. 6.19.</note> When he reſolved to deſtroy man from the face of the earth, he rendreth this as one reaſon of his reſolution,
+<note place="margin">Gen. 6.5.</note> 
+                  <hi>Every imagination of the thoughts of mans heart was only
+<pb n="33" facs="tcp:137604:18"/>evil continually.</hi> This we may write of, that forbearance of thoſe in whom evil thoughts lodge, will be no acquittance of them. The ſecrets of men ſhall be pro<g ref="char:EOLhyphen"/>duced and laid open.
+<note place="margin">Eccleſ. 12. laſt.</note> He who will bring every work into judg<g ref="char:EOLhyphen"/>ment, will therewith proceed up<g ref="char:EOLhyphen"/>on every ſecret thing.
+<note place="margin">Male judi<g ref="char:EOLhyphen"/>cata, non judicata. <hi>Mr. Bur<g ref="char:EOLhyphen"/>geſs</hi> on the day of judgment.</note> Two ſorts of things, God will be ſure to judge, things that on earth were miſ-judged, and things which there were not judged. Will not mens faces gather blackneſs, and their hearts be filled with hor<g ref="char:EOLhyphen"/>rour, at the great day, if all their evil thoughts be charged on them?</p>
+               <p>Suppoſing and hoping that the hearts of ſome will ſmite them, whoſe hearts uſed to entertain thoughts of the worſt ſort, with<g ref="char:EOLhyphen"/>out remorſe, yea, with delight, and that they begin to cry out, What ſhall we do? What courſe ſhould perſons in our caſe take? I ſhall
+<pb n="34" facs="tcp:137604:19"/>leave with them the enſuing Di<g ref="char:EOLhyphen"/>rections.</p>
+               <p n="1">1. Humble your ſelves as i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the fight of the Lord,
+<note place="margin">Pſal. 139, 2, 3.</note> who hat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſeen your evil thoughts afar of<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> even when they were but fir<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> forming and conceiving, Pu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> your mouths in the duſt, ſeein<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> there is yet hope. Let you<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mourning be free, full and co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſtant, not a fitt only, but a fram<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> That you may nouriſh your ſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>row, let the ſtreams of ev<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>thoughts lead you to the ſpring <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> your moſt evil and pollute<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hearts; cry out, that you are un<g ref="char:EOLhyphen"/>clean, unclean, guilty and filth<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> beyond expreſſion. Oh wretche<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> men and women that you are, b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> reaſon of a whole body of ſin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> whereof evil muſings are mem<g ref="char:EOLhyphen"/>bers!</p>
+               <p n="2">2. Do not imagine that yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> can in the leaſt by your greate<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſorrows, ſervices or ſufferings, ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> your ſelves right in the account <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="35" facs="tcp:137604:19"/>the Law and Juſtice of God. Can the poor finite payments of your tears anſwer the demands of Gods infinite Juſtice, which by your thinking evil you have engaged againſt you? It was not waſhing in <hi>Abanah</hi> and <hi>Pharphar,</hi> Rivers of <hi>Damaſcus,</hi> that could cure <hi>Naaman</hi> of his Leproſie. Neither can any ſuch waters as your weepings (though very good in their pro<g ref="char:EOLhyphen"/>per place) cure your ſouls and free them from the guilt of ſin. Your unrighteouſneſs makes you to need a Mediatour; your own righteouſneſs (if ſet up in the place of this one and only Media<g ref="char:EOLhyphen"/>tour) makes you uncapable of benefit by him.
+<note place="margin">See <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r<g ref="char:EOLhyphen"/>ton</hi>'s Or<g ref="char:EOLhyphen"/>thodox Evangeliſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> on Juſtifi<g ref="char:EOLhyphen"/>cation. Iſai. 64.6.</note> All your righte<g ref="char:EOLhyphen"/>ouſneſſes are but as filthy rags, if compared with the exactneſs of the Law and firſt Covenant. Can rags cover you? Can filthy rags cleanſe you?</p>
+               <p n="3">3. Run, yea, fly to the Refuge ſet before you. Cleave to and
+<pb n="36" facs="tcp:137604:20"/>claſp the arm of Faith about the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lord Jeſus Chriſt, and preſent your ſelves to his Father through<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him. He never thought amiſs, and he hath made ſuch compleat ſatis faction for thoſe who have thought amiſs, that upon their union to him, and intereſt in his merit, they ſhall be acquitted. His blood cleanſeth thoſe who by conſent and covenant are his pe<g ref="char:EOLhyphen"/>culiar ones, from all ſins, and ſo from thought-ſins.
+<note place="margin">1 John 1.7, 9.</note> Whereas con<g ref="char:EOLhyphen"/>vinced humbled perſons, becauſe they have multiplied ſins of that ſort, are apt to queſtion, whether upon their forſaking them, they ſhall find mercy; he hath given them aſſurance that he will abun<g ref="char:EOLhyphen"/>dantly pardon,
+<note place="margin">Iſai. 55.7, 8.</note> and that as the Heavens are higher than the Earth, ſo are his thoughts higher than their thoughts.</p>
+               <p n="4">4. Wait and beg hard that the bleſſed Spirit of God would re<g ref="char:EOLhyphen"/>new you in the ſpirit of your
+<pb n="37" facs="tcp:137604:20"/>minds, and having renewed you, that he would reſt upon you. Thoughts and muſings do call the Mind Mother.
+<note place="margin">Mat. 12.35.</note> Whileſt there is an evil treaſure, there will be a bringing forth of evil thoughts. If the root be unholy, ſuch will the branches be. Till the mind be ſound and pure, the thoughts will be rotten and impure; till the mind be humble and heavenly, the prevailing thoughts will be proud and earthly: And until the heart be the Temple wherein the Holy Ghoſt doth reſide and reign, vain evil thoughts will lodge within you.</p>
+               <p>I ſhall in the laſt place apply my Doctrine to thoſe, who though they have daily and ſad experi<g ref="char:EOLhyphen"/>ence of their offending in thought, yet they can ſay, and ſay truly, that</p>
+               <p>Vain thoughts are intruders, and not invited and welcome gueſts;
+<note place="margin">Pſal. 119.</note> though they have them, yet they
+<pb n="38" facs="tcp:137604:21" rendition="simple:additions"/>hate them, and dare not harbour them; though they ſometimes <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> make a through-fare, and paſs through their hearts, they dare not lodge them at any time; they have a prime care of their firſt and laſt, their morning and evening thoughts, they would (as a worthy one praſed it) ſhut their hearts with a golden bolt, when they ſleep, and open them with a ſilver key when they awake, they are afraid of think<g ref="char:EOLhyphen"/>ing their own thoughts on Gods holy day, they make conſcience of keeping their hearts above all keeping, and withall have reſpect as to this, ſo to all the reſt of Gods Commandments.</p>
+               <p>Such perſons as I have laſt de<g ref="char:EOLhyphen"/>ſcribed, may and ſhould chear themſelves, and whileſt they do well in their humiliations, they ſhould not do ill in giving way to thoſe dejections which lead to de<g ref="char:EOLhyphen"/>ſperation.</p>
+               <p n="1">
+                  <pb n="39" facs="tcp:137604:21"/> 1. Wherein their caſe is ſad, yet it is not ſingular. Evil was preſent with bleſſed <hi>Paul,</hi>
+                  <note place="margin">Rom. 7.</note> even when he would do good. Holy <hi>David,</hi> who hated vain thoughts, did not ſay that he had none of them. As the Fowls came down upon the Carcaſes, when the Fa<g ref="char:EOLhyphen"/>ther of the Faithful was ſacrifi<g ref="char:EOLhyphen"/>cing, ſo do flying and wandring thoughts come down upon, or riſe up in the ſpirits of the faithful, whileſt they are offering ſpiritual Sacrifices.</p>
+               <p n="2">2. Though others thought-ſins are more and greater than theirs, yet they are without a ſight and ſence thereof; their thinking evil is ſin, but their bewailing and watching againſt evil thoughts, is from Grace. A room is as full of duſt in the night as in the day, but it is the day or Sun-light that makes diſcovery thereof: The hearts of godly Mourners abound<g ref="char:EOLhyphen"/>ed with vain and vile thoughts,
+<pb n="40" facs="tcp:137604:22"/>whileſt they were in their unre<g ref="char:EOLhyphen"/>generacy, but their groaning un<g ref="char:EOLhyphen"/>der them, and going to the God of Grace for power againſt them, (other things being ſutable there<g ref="char:EOLhyphen"/>to) is a conſequent of their rege<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ition.</p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Though evil thoughts do <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and diſturb them, yet <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lord hath provided a ſtate <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>herein they ſhall be wholly rid of them. Heaven is that privi<g ref="char:EOLhyphen"/>ledged place, where no thing, no thought that is unclean, can enter. The ſpirits of juſt men are there made (in all points) perfect.
+<note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 12.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>3.</note>
+               </p>
+               <p>Becauſe comfort and duty go beſt hand in hand, and it is by ſun<g ref="char:EOLhyphen"/>dry obſerved, that the ſame word in the Greek doth ſignifie both; though I cannot promiſe to any that they ſhall never think evil, I ſhall preſent before all you, whoſe hearts are ſet againſt ſuch think<g ref="char:EOLhyphen"/>ing, ſeveral helps which (through Grace) will prove highly helpful to you.</p>
+               <pb n="41" facs="tcp:137604:22"/>
+               <p> 
+                  <hi>Meditate on the infinite Glory and Perfection of God,</hi>
+                  <note place="margin">Firſt Help.</note> 
+                  <hi>who hath forbidden evil thoughts.</hi>
+               </p>
+               <p>In Heaven, where the Face of the Lord is moſt ſeen, there is not one wrong thought, and certainly the more the heart is under the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>we and affecting apprehen<g ref="char:EOLhyphen"/>ſions of his Preſence and Exce<g ref="char:EOLhyphen"/>lency here on earth, the leſs <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> evil thoughts get admittance in<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> it. God is not in all a wick<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mans thoughts, and therefore ſin <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſo much in them. Shall the thing framed entertain thoughts diſho<g ref="char:EOLhyphen"/>nourable to him that framed it? Shall the mind work wickedneſs whileſt its Maker ſtandeth by ob<g ref="char:EOLhyphen"/>ſerving it? Shall you, before whom his goodneſs in his Son hath ſo eminently and evidently paſſed, no more fear the Lord and his Goodneſs, than to give way to thoughts that wander from, and war againſt him?
+<note place="margin">Jo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>1, 1, 2, 3.</note> 
+                  <hi>Joh</hi> would not think unchaſtly of a Maid, for
+<pb n="42" facs="tcp:137604:23"/>God ſaw all his wayes, even th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> inward wayes of his heart.</p>
+               <p n="2">2.
+<note place="margin">Second Help.</note> 
+                  <hi>Take a true meaſure of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> exceeding evil and ſinfulneſs o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſin.</hi>
+               </p>
+               <p>It is ſaid of learning, that if i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> could be beheld with bodily eyes, all men would love it; ſurely if ſin were ſeen with ſpiritual eyes, all the beholders would loath it. How can you find in your hearts to think evil, and ſo ſin? Judge of the cauſe by the effects. The burning of <hi>Sodom,</hi> the drowning of the World, the torments of Hell (yea, the ſufferings of the Son of God) are all the fruits of ſin. Judge of the Malady by the Remedy. The ſtain of one evil thought is ſo deep, that nothing ſhort of blood, no blood ſhort of that which is called the Blood of God (being the blood of that Perſon, who was and is God) can fetch it out. There is no ſuch thing as a ſin that is abſolutely little.</p>
+               <p n="3">
+                  <pb n="43" facs="tcp:137604:23" rendition="simple:additions"/> 3 <hi>Abandon and abhor that falſe, but frequently recited Principle, That thoughts are free.</hi>
+               </p>
+               <p>The Commandment of God is exceeding broad,
+<note place="margin">Pſal. 119.96.</note> binding the mind and inward. There is ſo much more evil in evil thoughts, becauſe they are leſs bewailed and reſiſted. And without contro<g ref="char:EOLhyphen"/>verſie one reaſon why men ſo eaſi<g ref="char:EOLhyphen"/>ly perſwade themſelves, that their thoughts do not diſpleaſe God, is, becauſe they ſo highly pleaſe them.
+<note place="margin">Facile cre<g ref="char:EOLhyphen"/>dimus quod vo<g ref="char:EOLhyphen"/>lumus.</note> They ſoon believe what they would have to be true.</p>
+               <p n="4">4. <hi>Bear ſtill in mind the cor<g ref="char:EOLhyphen"/>ruption of your natures, whence evil thoughts have their riſe.</hi>
+               </p>
+               <p>This impure ſpring will not run leſs (it is likely to run more) when you loſe the ſight of it. This root of bitterneſs is ſtill rea<g ref="char:EOLhyphen"/>dy to ſend forth its branches. The more you truſt your own deceived and deceitful hearts,
+<note place="margin">Prov. 28.2.6.</note> the more you incur the black brand
+<pb n="44" facs="tcp:137604:24"/>of folly. This ſhould keep yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> humble, watchful and dependan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> on Divine Grace for healing. Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> luſt which is in you is ſtill apt to conceiv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and bring forth tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which is diſhonourable to God <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> your hearts are not only infected,
+<note place="margin">James 1.13, 14.</note> but withall infectious.</p>
+               <p n="5">5. <hi>Conſider the dreadfulneſs of Divine diſpleaſure, which for your former evil thoughts might in ju<g ref="char:EOLhyphen"/>ſtice have been executed on you.</hi>
+               </p>
+               <p>
+                  <hi>The wages of ſin is death,</hi>
+                  <note place="margin">Rom. 6. laſt.</note> even that death which is oppoſed to eternal life. That which is due to ſin, as ſin, is due to every ſin, even to thought-ſins. Have you not already too too often laid your ſelves in the mouth of ruine? If Gods Patience and Grace had not interpoſed, you had long ago been where the Worm never di<g ref="char:EOLhyphen"/>eth, but ever gnaweth. Dare you ſtill give way to thoſe thoughts, againſt which the wrath of God is revealed?</p>
+               <p n="6">
+                  <pb n="45" facs="tcp:137604:24"/> 6. <hi>Keep a ſtrict and conſtant guard over your ſenſes.</hi>
+               </p>
+               <p>Evil communications corrupt good manners, and draw forth the ſeeds of evil, which are in the hearts of thoſe who hear them. If you cannot ſtop others mouths from vain and vile ſpeeches, yet ſtop your own ears from giving audience to them. Learn at holy <hi>Job,</hi>
+                  <note place="margin">Job 31.1.</note> to make a covenant with your eyes. Pray with holy <hi>David,</hi>
+                  <note place="margin">Pſal. 119.</note> that God would turn away your eyes from beholding vanity. What troops of evil did enter in by his eyes, when he ſuffered them to gaze on a Woman that was waſh<g ref="char:EOLhyphen"/>ing her ſelf?
+<note place="margin">2 Sam. 11.</note>
+               </p>
+               <p n="7">7. <hi>Above all keeping keep your hearts.</hi>
+               </p>
+               <p>At the door of every room (or faculty) ſet a careful Porter. See that the light that is in your un<g ref="char:EOLhyphen"/>derſtandings be clear, repreſent<g ref="char:EOLhyphen"/>ing to you, the gloriouſneſs of God, the lovelineſs of heart-pu<g ref="char:EOLhyphen"/>rity,
+<pb n="46" facs="tcp:137604:25"/>the hatefulneſs of filthine<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of ſpirit. See that your memo<g ref="char:EOLhyphen"/>ries ſet before you your holy pro<g ref="char:EOLhyphen"/>feſſion, and high obligations, tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> your Conſciences are truly ten<g ref="char:EOLhyphen"/>der, riſing againſt the firſt riſings o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſin, that your wills ſtand fully ben<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> towards conformity to God, tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> your affections be pitched,
+<note place="margin">Gol. 3.1.</note> and fixed on things above.</p>
+               <p n="8">8. <hi>Get an addition to, and in<g ref="char:EOLhyphen"/>creaſe of your ſtock of habitual Grace.</hi>
+               </p>
+               <p>The more ſtrong and vigorous the new Man is, the leſs can thoughts which are contrary thereunto get admittance.
+<note place="margin">Mat. 12.35.</note> When there is a good treaſure in the heart, good things will be brought forth moſt plentifully, and evil things be ſtifled moſt ſucceſsfully. Covet earneſt as the beſt gifts, ſo the higheſt degree of graces at<g ref="char:EOLhyphen"/>tainable. The more you love, fear and delight in the Lord, the leſs can vain thoughts lodge with<g ref="char:EOLhyphen"/>in you.</p>
+               <p n="9">
+                  <pb n="47" facs="tcp:137604:25"/> 9. <hi>Inure and accuſtom your ſelves to holy Meditation.</hi>
+               </p>
+               <p>Your thoughts will be at work. Find them ſtill fit edifying ſub<g ref="char:EOLhyphen"/>jects to dwell upon. Have you not a large field to walk in? Let the Attributes, Works and Word of God be much in your minds.
+<note place="margin">Pſal. 104.34.</note> So ſhall your meditation be ſweet, and you will neither be at leiſure for, nor yet have an allowance of evil muſings.</p>
+               <p n="10">10. <hi>Maintain communion with and dependance on the Holy Ghoſt.</hi>
+               </p>
+               <p>Though you are not ſufficient as of your ſelves to think well, or to prevent evil thinking,
+<note place="margin">2 Cor. 3.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> yet he who proceedeth from the Father and the Son, to be a Sanctifier of the very thoughts of the heart, is Al<g ref="char:EOLhyphen"/>ſufficient. You may do all things, and in particular reſiſt evil thoughts,
+<note place="margin">Phil. 4.13.</note> ſo as to find favour with God, through the Spirit ſtrength<g ref="char:EOLhyphen"/>ening you.</p>
+               <pb n="48" facs="tcp:137604:26"/>
+               <p> I am apprehenſive that learned and diligent Readers are furniſhed with excellent and enlarged Trea<g ref="char:EOLhyphen"/>tiſes about the ordering of their thoughts, yet I living near to thou<g ref="char:EOLhyphen"/>ſands, into whoſe hands theſe ela<g ref="char:EOLhyphen"/>borat pieces are not likely to come, and believing that ſmall veſſels have their uſe, and that the way of the plain is fitteſt for dim-ſighted ones to travel in, have communi<g ref="char:EOLhyphen"/>cated theſe ſlender thoughts, which I ſhall follow with my pray<g ref="char:EOLhyphen"/>ers, that the Lord, who ſeeth mens thoughts, would help men to ſee the evil which hath already been in them, and the abſolute neceſſity their Souls ſtand in of being waſh<g ref="char:EOLhyphen"/>ed from that wickedneſs, of being ſupplied from the free full Grace of God in Chriſt Jeſus, that their thoughts may carry a ſutableneſs to their profeſſion of Chriſtianity, and to their expectation of glory.</p>
+            </div>
+         </div>
+         <div type="sermon">
+            <pb n="1" facs="tcp:137604:26"/>
+            <head>A BRIDLE FOR THE TONGUE.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Matthew 12.36.</hi>
+                  </bibl>
+                  <p>But I ſay unto you, that every idle word that men ſhall ſpeak, they ſhall give account thereof in the day of judgment.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">S</seg>Entences and Sayings do uſually obtain regard, according to the wiſ<g ref="char:EOLhyphen"/>dom, worth and autho<g ref="char:EOLhyphen"/>rity of the perſons that utter
+<pb n="2" facs="tcp:137604:27"/>them. That this Sentence, with which I have to do, ſhould there<g ref="char:EOLhyphen"/>fore be more regarded, becauſe i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was uttered by the Lord Jeſus appeareth evidently, in that h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> uſhereth in his Aſſertion with a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Aſſeveration, <hi>I ſay unto you.</hi>
+            </p>
+            <p>I who cannot lye, would have you to receive and write on this a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a great Truth; I who am to b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your Judge, give you to under<g ref="char:EOLhyphen"/>ſtand how ſtrict my proceeding will be in judgment; I will ca<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> you to account, not only for you<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> notoriouſly evil actions, but with all for all your idle and empty ex<g ref="char:EOLhyphen"/>preſſions.</p>
+            <p>It is father'd upon ſome of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Fathers, that they were ſtartle<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with this Text: One is ſaid to cr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out,
+<note place="margin">St. <hi>Augu<g ref="char:EOLhyphen"/>ſtine.</hi>
+               </note> 
+               <hi>Which of Gods faithful one doth not Chriſt affright when <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſaith, That every idle word ſhall b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> accounted for?</hi> And another i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> brought in with theſe words,
+<note place="margin">St. <hi>Ambroſe</hi>
+               </note> 
+               <hi>Is i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I that muſt give account of ever</hi>
+            </p>
+            <pb n="3" facs="tcp:137604:27"/>
+            <p> If that word that ſtartled them do not ſtir us, we may fear it is be<g ref="char:EOLhyphen"/>cauſe our hearts are more hard, or leſs under a firm belief of the future ſtate, that ſtate to come, which ſhall begin, but ſhall never end.</p>
+            <p>The parts or particulars where<g ref="char:EOLhyphen"/>of I ſhall take notice are,</p>
+            <p n="1">1. A Crime or Fault ſuppoſed, for which a Bill of Indictment will be drawn up, to wit, words, idle talking.</p>
+            <p n="2">2.
+<note place="margin">Intelligen<g ref="char:EOLhyphen"/>dum hoc de impiis &amp; damna<g ref="char:EOLhyphen"/>tis. <hi>Gradocks Harmony in locum.</hi> See Cau<g ref="char:EOLhyphen"/>ſes of de<g ref="char:EOLhyphen"/>cay, p. 174.</note> The parties indictable for Crime, to wit, Men and Women. The Learned do interpret this of perſons that live and dye Chriſt<g ref="char:EOLhyphen"/>leſs. Though idle words are ſins damnable, ſins in all, yet unto the truly and throughly penitent, who have a Mediatour to ſtand in and anſwer for them, who would not willingly utter one idle word, ſins ſhall not be imputed.</p>
+            <p n="3">3. The proceeding which ſhall be for this Crime, and on theſe
+<pb n="4" facs="tcp:137604:28"/>Perſons, <hi>They ſhall give account,</hi> that is, with grief, and to their ſhame, they ſhall ſo give account, as upon giving it to receive that dreadful doom,
+<note place="margin">Mat. 25.41. See <hi>Ieanes</hi> his ſecond part, page 50, 51.</note> 
+               <hi>Go ye curſed:</hi> The Antecedent of accounting, is here (as elſewhere) put for the ſad conſequent of it being condemn<g ref="char:EOLhyphen"/>ed to eternal puniſhment. This tended moſt directly to rouze the ſleepy Conſciences of thoſe blaſ<g ref="char:EOLhyphen"/>phemous Phariſees, with whom our bleſſed Saviour was now ar<g ref="char:EOLhyphen"/>guing.</p>
+            <p n="4">4. The time when idle words ſhal be found ſo extreamly faulty,
+<note place="margin">In D<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ju<g ref="char:EOLhyphen"/>dicii ex<g ref="char:EOLhyphen"/>tremi. <hi>Grad.</hi> from <hi>L. Burgon<g ref="char:EOLhyphen"/>ſis.</hi> Acts 17.31.</note> and the ſpeakers of them ſo ſharp<g ref="char:EOLhyphen"/>ly handled; and that will be when time will be no more. The day of account will be that great day, when the general Aſſizes ſhall be held, when God ſhall judge all the World of Angels and Men in Righteouſneſs.</p>
+            <p>The Doctrine to be treated of, is as followeth,</p>
+            <pb n="5" facs="tcp:137604:28"/>
+            <p> 
+               <hi>At the great day of account idle words ſhall be accounted for.</hi>
+            </p>
+            <p>Or thus:</p>
+            <p>
+               <hi>Idle words do carry in them ſuffi<g ref="char:EOLhyphen"/>cient matter for mens eternal con<g ref="char:EOLhyphen"/>demnation.</hi>
+            </p>
+            <p>My firſt work ſhall be to reſolve this Quere, <hi>What words are to be eſteemed idle words?</hi>
+            </p>
+            <p>For the better reſolving of this Queſtion.</p>
+            <p>I ſhall firſt remove out of the way that gloſs which (as I with others judge) is too narrow, and doth not take in the full mind of the Lord, and that is the gloſs of thoſe who would reſtrain this phraſe,
+<note place="margin">Quae veri ſoliditate carent.</note> if not to malicious and blaſ<g ref="char:EOLhyphen"/>phemous words, yet at leaſt to falſe and lying words, as if thoſe only were ſtruck at under the notion of idle or empty words, which do want the fitting and weight of truth.</p>
+            <p>But as ſome eminently learned have noted,</p>
+            <p n="1">
+               <pb n="6" facs="tcp:137604:29"/> 1. The ſtream of Interpreters runs quite another way, and they judge generally that our bleſſed Saviour arguing with the Phari<g ref="char:EOLhyphen"/>ſees, doth argue in an aggravating way,
+<note place="margin">Videatur Chriſtus aliquo ex<g ref="char:EOLhyphen"/>aggeratio<g ref="char:EOLhyphen"/>nis genere uti. <hi>Maldonate.</hi>
+               </note> from the leſſer to the greater. He lets them know, that they were running to everlaſting ruine. If they had only the guilt of idle words upon them, that might ſink them into Hell; and what de<g ref="char:EOLhyphen"/>fence could they then make for ſuch monſtrouſly evil words as they had uttered, in charging him to caſt out Devils by <hi>Beelzebub,</hi> the Prince of Devils?</p>
+            <p n="2">2. Our Saviour ſeems to teach them a Doctrine ſomewhat new and ſtrange in the Phariſees Schools.
+<note place="margin">Moldonate.</note> They in their Expoſiti<g ref="char:EOLhyphen"/>ons did ſtraiten the Law, but he came to fulfil and explain it. It can ſcarce be doubted,
+<note place="margin">
+                  <hi>Jeanes</hi> his ſecond part, page <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note> though they were <hi>lax,</hi> looſe Expoſitors, that they thought or taught that lyes and blaſphemies ſhould not
+<pb n="7" facs="tcp:137604:29"/>be accounted for. But now our dear Lord goes further, and aſſures them in the word of a King (the King of Glory) that they ſhall be called to account for their idle ex<g ref="char:EOLhyphen"/>preſſions.</p>
+            <p>It is marked, and is remarkable, that elſewhere, when he will re<g ref="char:EOLhyphen"/>cover the Truth from the falſe gloſſes which the Phariſees did put upon it,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Mat. 5.20, 22, 28, 32, 39.44.</note> he uſeth the very Pre<g ref="char:EOLhyphen"/>face which is uſed in this Text, <hi>But I ſay unto you.</hi>
+            </p>
+            <p>Having thus cleared my way, I ſhall go on to ſhew,</p>
+            <p n="1">1. What words are not to be charged with idleneſs.</p>
+            <p n="2">2. What words are chargeable therewith.</p>
+            <p n="1">1.
+<note place="margin">Negative<g ref="char:EOLhyphen"/>ly.</note> All words referring to theſe lower earthly affairs are not to be accuſed as idle words. The Lord, who hath appointed for us parti<g ref="char:EOLhyphen"/>cular Callings, and hath allowed us ſix dayes in ſeven to labour in,
+<note place="margin">Exod. 20.9.</note> doth as well approve of the la<g ref="char:EOLhyphen"/>bour
+<pb n="8" facs="tcp:137604:30"/>of our tongues about them, as that of our hands.
+<note place="margin">On the Sabbath we ſhould not ſpeak our own words. Iſai 58.13.</note> God for<g ref="char:EOLhyphen"/>bid that even on week-dayes our whole diſcourſe ſhould be of an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> earthly complexion! we ſhould learn of our bleſſed Maſter to raiſe heavenly conference out of earthly occaſions. Yet undoubt<g ref="char:EOLhyphen"/>edly what words, ſoever are requi<g ref="char:EOLhyphen"/>ſite for the better management of our lawful trades or buſineſſes, we may uſe not only lawfully, but lau<g ref="char:EOLhyphen"/>dably. The Scripture recordeth without the leaſt diſallowance the formalities and paſſages of a pur<g ref="char:EOLhyphen"/>chaſe between Father <hi>Abraham</hi> and the Children of <hi>Heth,</hi>
+               <note place="margin">Gen. 23.4, &amp;c.</note> and be<g ref="char:EOLhyphen"/>tween holy <hi>Jeremiah</hi> and his Un<g ref="char:EOLhyphen"/>cles Son.</p>
+            <p n="2">2. All words favouring of great civility and courtiſie do not juſtly fall under the cenſure of being idle. Among other duties urged by the Apoſtle <hi>Peter,</hi>
+               <note place="margin">Pet. 3.8.</note> being courte<g ref="char:EOLhyphen"/>ous is one. Our bleſſed Saviour did not ſtick to ſtile <hi>Judas</hi> Friend;
+<note place="margin">Mat. 26.50</note>
+               <pb n="9" facs="tcp:137604:30" rendition="simple:additions"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or did Saint <hi>Paul</hi> ſcruple to give <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>Festus</hi> the title of Moſt noble.
+<note place="margin">Acts 26.25</note> They who can, may defend thoſe uſual expreſſions of, <hi>Your Servant Sir, Your most humble Servant,</hi> when uſed to thoſe for whom there is neither ſervice nor love ready;
+<note place="margin">Gratiam affabilitatis non ex<g ref="char:EOLhyphen"/>cludit o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is cuſtodia. <hi>Bernardi Flores,</hi> pag. 712.</note> I do not look upon them as in that eaſe defenſible. Yet I am clear that it is for the honour of Chri<g ref="char:EOLhyphen"/>ſtianity, when Chriſtians are not moroſe and auſtere, but of affable inviting obliging carriage.</p>
+            <p n="3">3. All ſpeeches that are recrea<g ref="char:EOLhyphen"/>tional, and tend to the chearing of thoſe with whom we converſe, muſt not have idleneſs laid to their charge.
+<note place="margin">Judges 14.12.</note> 
+               <hi>Sampſon</hi> had ſundry faults, but his putting forth a Rid<g ref="char:EOLhyphen"/>dle to his Companions was none. I know very many need a bridle to curb them, not a ſpur to haſten them in this particular. It is not an ordinary thing for perſons to be both merry and wiſe at once. Jeſting doth uſually border upon
+<pb n="10" facs="tcp:137604:31"/>fooliſh talking, and accordingl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the holy Ghoſt by the Pen of <hi>Pa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> doth draw a black line over the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> both;
+<note place="margin">Epheſ. 5;4.</note>
+               <note place="margin">See Biſhop <hi>Davenant</hi> on the <hi>Coloſſi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,</hi> page 297, 390.</note> and one of the Fathers i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> quoted as holding Jeſts in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whole kind abhorrent from th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> rule of the Church, and anothe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> affirming,
+<note place="margin">Nugae in ore facer<g ref="char:EOLhyphen"/>dotis ſunt blaſphe<g ref="char:EOLhyphen"/>miae. See <hi>Rey<g ref="char:EOLhyphen"/>ner</hi>'s Rules page 224, 225 Rom. 15.2, 3.</note> that trifles when in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mouth of a Prieſt are blaſphemies. Yet I queſtion not, but pleaſan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſpeeches may carry profit in them, when uſed ſparingly and warily. As Pills may be wrapped up in Su<g ref="char:EOLhyphen"/>gar, ſo wholeſom advices and re<g ref="char:EOLhyphen"/>proofs may be given to ſome in more delightful language, who would not otherwiſe take them; and we may pleaſe our neigh<g ref="char:EOLhyphen"/>bours ſo far as may be to their pro<g ref="char:EOLhyphen"/>fit and edification.</p>
+            <p>Having ſhewed on what words the brand of idleneſs is not to be ſet,
+<note place="margin">Poſitively.</note> I ſhall ſhew what words do deſerve that brand, to wit,</p>
+            <p>Words that have no worth in them,
+<note place="margin">Maldonate.</note> neither can it be reaſonably
+<pb n="11" facs="tcp:137604:31"/>expected, that any good effect ſhould flow from them.
+<note place="margin">Quae nul<g ref="char:EOLhyphen"/>lam aut audienti aut dicent edificatio<g ref="char:EOLhyphen"/>nis utilita<g ref="char:EOLhyphen"/>tem affe<g ref="char:EOLhyphen"/>runt. Doctor <hi>Spurſtow.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> quaſi <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,</note> Words that are apparently worſe than ſilence; words that neither ad<g ref="char:EOLhyphen"/>vantage him that ſpeaks nor them that hear them. A learned man obſerved, in mine hearing, many years ago, that the Greek word tranſlated idle, was uſed among the Jews to denote the year of releaſe, the year wherein they neither ſowed nor reaped, and withall to ſignifie money which lay by and brought no profit to the owner. Though ſome words conſidered in the general may be counted indifferent,
+<note place="margin">
+                  <hi>Ieanes</hi> ſe<g ref="char:EOLhyphen"/>cond part. page 51.</note> yet if in their particular uſe they be not referred to ſome good end, if they be not in ſome ſort needful, or helpful, they will be found idle.</p>
+            <p>My next work is to evidence, that Gods proceeding in judgment againſt perſons for idle words, is very reaſonable and equitable.</p>
+            <p n="1">
+               <pb n="12" facs="tcp:137604:32"/> 1. <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>
+               </label> Idle words are real tran<g ref="char:EOLhyphen"/>greſſions, they do merit the nam<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and partake of the nature of ſin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and this appears in that,</p>
+            <p n="1">1. In ſpeaking them, perſon forget (and do not intend) tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> noble end, for which they wer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> created, and created with ſuch <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> choice capacity and ability as tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of ſpeaking is.
+<note place="margin">See Doctor <hi>Roberts</hi> upon Pſal. 16.9.</note> It is uſually no<g ref="char:EOLhyphen"/>ted, that the ſame word in the ori<g ref="char:EOLhyphen"/>ginal which ſignifies tongue, doth ſignifie glory. A mans tongue ſhould be his glory and not his ſhame, and then it is his glory, when in its uſe it is directed to Gods glory.</p>
+            <p n="2">2. In idle ſpeaking there is no little loſs or miſpending of preci<g ref="char:EOLhyphen"/>ous time;
+<note place="margin">Epheſ. 5.16.</note> that golden ſand ſhould not run out at waſte. Time is not to be waſted, but wared and hus<g ref="char:EOLhyphen"/>banded carefully. What I have ſaid will ſerve to juſtifie the Al<g ref="char:EOLhyphen"/>mighty in his judging men for their idle ſpeeches. That which
+<pb n="13" facs="tcp:137604:32"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ſin (though men count it a ſmall ſin) hath death due to it.
+<note place="margin">Rom. 6. ult.</note> There is moiſture in a little drop of water, and heat in a little ſpark of fire; ſo there is contrariety to the nature and will of God in that which is eſteemed a leſſer ſin.
+<note place="margin">Cauſes of decay of Pity, page 140.</note> An elegant Pen hath written, that ſin is ſo mortal a venom, that the leaſt doſe of it is deadly. Hell is as certainly acquired, and Heaven as certainly forfeited by one ſin as many.</p>
+            <p n="2">2. <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>
+               </label> Idle ſpeaking ſpeaketh the heart from which it doth ordina<g ref="char:EOLhyphen"/>rily iſſue to be in a ſinful ſtate and frame.
+<note place="margin">Mat. 12.34, 35.</note> 
+               <hi>Out of the abundance of the heart the mouth ſpeaketh.</hi> Words are truly ſaid to be to the heart, what an Index is to a Book, they ſhew the principal things that are contained in it.
+<note place="margin">Si trabs in oculo, ſil<g ref="char:EOLhyphen"/>va in cor<g ref="char:EOLhyphen"/>de. Doctor <hi>Spurſtow.</hi>
+               </note> Who can contradict him who cried out, <hi>If there be a Beam of evil in the tongue, there is a Wood in the heart?</hi> It is ſaid, That diſeaſes in the body
+<pb n="14" facs="tcp:137604:33"/>may be diſcovered by ſpots on th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tongue; to be ſure diſeaſes an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diſtempers of the ſoul may b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thereby diſcerned. Vanity i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſpeaking is fathered upon ſtrang<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> children,
+<note place="margin">Pſal. 144.11.</note> upon ſuch as are not ſa<g ref="char:EOLhyphen"/>vingly acquainted with God.</p>
+            <p n="3">3. <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>
+               </label> The uſe of idle and vai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſpeeches doth lay open to, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> make way for ſpeeches that ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> notoriouſly vile and evil. The<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> who would have no corrupt com<g ref="char:EOLhyphen"/>munication proceed out of thei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mouthes,
+<note place="margin">Eph. 4.29.</note> muſt take care that thei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſpeech communicate grace to thoſe that hear it. Sin is (as on<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaith) a ſpeedy graduate.
+<note place="margin">Cauſes of decay, page 127.</note> Little Theeves put in at the window ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the doors open to all the reſt. Sin is as a precipice or ſteep place<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> where if we once begin to fall,
+<note place="margin">Leviter volat, <hi>Ber<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>di</hi> flo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, p. 709.</note> i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will not be eaſie for us to ſtop. I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> once the tongue be let looſe, God only knoweth how far it will run.</p>
+            <p n="4">
+               <pb n="15" facs="tcp:137604:33"/> 4. Idle words tend to the hurt of thoſe who hear them. The heart of fallen man is very prone to gather vanity to it ſelf, and vain diſcourſe doth greatly further it in that bad way; it doth draw forth that ſin, which in the ſeeds of it before lay hid. They who come or talk not together for the better, do it for the worſe. They who gain not by conference, are in danger to loſe by it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>1</label> From the Doctrine which I have taught we may be informed in ſundry particulars.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Branch </seg>1</label> If idle words be ſufficient mat<g ref="char:EOLhyphen"/>ter for mens condemnation, then idle perſons can (in their preſent ſtate) look for no other then to be condemned. Why ſtand you all the day idle, is a queſtion that ſhould ſtartle the guilty. The light of nature hath diſcovered the evil of idleneſs. Idleneſs is called the Devils Cuſhion; ſurely then, they that are called to be Saints ſhould
+<pb n="16" facs="tcp:137604:34"/>be afraid to lye or lean on it. <hi>Adam</hi> when he was in innocency was not to be out of imployment.
+<note place="margin">Gen. 2.15.</note> Idleneſs was one of the ſins of <hi>So<g ref="char:EOLhyphen"/>dom.</hi>
+               <note place="margin">Ezek. 16.49.</note> Idle perſons do even tempt the Tempter. The Sun ſhining, the Heavens moving, the Earth bearing, the Waters flowing, do all of them accuſe the ſlothful. In the ſweat of their faces (either of their brows or of their brains) are all men to eat their bread.
+<note place="margin">See the Gentle<g ref="char:EOLhyphen"/>mans Cal<g ref="char:EOLhyphen"/>ling. 1 Theſ. 4.11. 2 Theſ. 3.11.</note> The Gentleman is by a moſt neat hand lead unto the diſcharge of his calling. Every one ſhould mind his own buſineſs; and they will be ſure to be buſie-bodies in evil, who do nothing which is good. Standing waters will gather filth,
+<note place="margin">Goſpel glaſs, page 232, 233.</note> and Birds that are not flying are in the greateſt danger of being ſhot.</p>
+            <p>An idle lazy way of Religion carrieth matter of condemnation in the face of it.
+<label type="milestone">
+                  <seg type="milestoneunit">Branch </seg>2</label> As thoſe who are negligent in their particular
+<pb n="17" facs="tcp:137604:34"/>Callings, ſo thoſe who under pre<g ref="char:EOLhyphen"/>tence of following them ſlight (or are ſlightly in) their general Calling, are out of the way of life. It is dangerous to ſtand idle elſe<g ref="char:EOLhyphen"/>where, but moſt dangerous to ſtand idle in the Lords Vineyard.
+<note place="margin">Mat. 20.3, 6.</note> The Lord will not own any idle ſervants. He is for labourers, and not for loyterers.
+<note place="margin">John 4.14.</note> Where true Grace is, it is a well of water ſpringing up. The very word Religion im<g ref="char:EOLhyphen"/>plyeth that it is a binder;
+<note place="margin">
+                  <hi>Glavil</hi>'s Philoſo<g ref="char:EOLhyphen"/>phia pia. page 155. A religan<g ref="char:EOLhyphen"/>do.</note> it bind<g ref="char:EOLhyphen"/>eth to duties in Church and Fami<g ref="char:EOLhyphen"/>lies, to ſecret prayer, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f-ſearching, ſerious meditating, conſtant watching againſt ſin, over the in<g ref="char:EOLhyphen"/>ward and outward man,
+<note place="margin">1 Cor. 15. ult.</note> to the fil<g ref="char:EOLhyphen"/>ling up of every relation and con<g ref="char:EOLhyphen"/>dition with proper ſervices. Slug<g ref="char:EOLhyphen"/>giſh hearts are very unlike to win Heaven.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Branch </seg>3</label> If idle words are to be con<g ref="char:EOLhyphen"/>demned in other caſes, there is no queſtion but they are to be con<g ref="char:EOLhyphen"/>demned in prayer. Should not
+<pb n="18" facs="tcp:137604:35"/>mens words be weighed, when they who are but duſt and aſhes take upon them to ſpeak to the King of Kings?
+<note place="margin">Eccleſ. 5.2.</note> Whether perſons in prayer uſe the ſame words which they have uſed before, or vary their expreſſions, they ſhould ſee to this,
+<note place="margin">Pſal. 62.8.</note> that they pour out their hearts unto the Lord, and do not draw near to him with their lips only.
+<note place="margin">Mat. 15.8.</note> Though uponextraordinary occaſions prayer may be long con<g ref="char:EOLhyphen"/>tinued in,
+<note place="margin">See Do<g ref="char:EOLhyphen"/>ctor <hi>Spur<g ref="char:EOLhyphen"/>ſtow</hi>'s Me<g ref="char:EOLhyphen"/>ditations, page 17, 18.</note> yet ſtrength in prayer is alwayes to be preferred before length in prayer. Faith is more ex<g ref="char:EOLhyphen"/>cellent than natural fervour. The Spirit may help in ſighs and groans, when the ſtretching out of the voice is of little value.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Branch </seg>4</label> If perſons will have a ſad ac<g ref="char:EOLhyphen"/>count to make for idle words, how will they ſtand in judgment be<g ref="char:EOLhyphen"/>fore God, who have been, and yet are, notoriouſly guilty of falſe, fil<g ref="char:EOLhyphen"/>thy, bitter, envious, yea, even blaſ<g ref="char:EOLhyphen"/>phemous words?</p>
+            <p n="1">
+               <pb n="19" facs="tcp:137604:35"/> 1. What ſhall be done unto the falſe tongue?
+<note place="margin">Pſal. 120.3 Doctor <hi>Arrow<g ref="char:EOLhyphen"/>ſmith</hi>'s Tacita ſacra, page 14, 16, Linguae, Daemomp. vernacula eſt menda<g ref="char:EOLhyphen"/>citas.</note> How can perſons anſwer for words which want truth, when they cannot anſwer for words which want weight? There are ſome footſteps whereby the Devil may be traced in other ſins, but the ſin of lying carrieth the very face of the Devil in it. Lyars do aloud call him Father.
+<note place="margin">John 8.44.</note> The Scripture (which cannot be broken) doth ſhut him that ma<g ref="char:EOLhyphen"/>keth a lye out of the City of God.
+<note place="margin">Revel. 21. ult.</note> God hath given this teſtimony of his Children, that they are Chil<g ref="char:EOLhyphen"/>dren that will not lye.
+<note place="margin">Iſa. 63.8.</note> It was the determination of a Father,
+<note place="margin">Biſhop. <hi>Davenant</hi> on the <hi>Coloſſians.</hi> page 298.</note> That a lye ſhould not be told under pre<g ref="char:EOLhyphen"/>tence of ſaving a world. Lyes which are called officious, are in<g ref="char:EOLhyphen"/>deed very pernicious.</p>
+            <p n="2">2. How will they look God in the face, who inure their tongues to filthy ſpeeches?
+<note place="margin">Epheſ. 5.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.4.29.</note> How far is fil<g ref="char:EOLhyphen"/>thineſs from being convenient, or becoming thoſe who are called to
+<pb n="20" facs="tcp:137604:36"/>be Saints?
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i ofioſus <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ermo re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>prehendi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur, quan<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o magis <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>purcus &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oxius. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſhop <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>avenant,</hi> page 297.</note> What modeſt language would people ſpeak, if they would make Scripture the Maſter and meaſure of their ſpeaking? An unſavoury breath doth not ſo much ſhew the unſoundneſs of the lungs, as obſcene ſcurrilous di<g ref="char:EOLhyphen"/>ſcourſe doth ſhew the unſound<g ref="char:EOLhyphen"/>neſs of the heart. Shall men put their mouths into the moſt noy<g ref="char:EOLhyphen"/>ſome dunghils?</p>
+            <p n="3">3. Will not they be far from making a good defence, who at the great day ſhall be charged with hard ſpeeches and cenſures, and thoſe againſt ſuch who have deſired to fear God?
+<note place="margin">Num. 12.8.</note> Were ye not afraid to ſpeak againſt my Ser<g ref="char:EOLhyphen"/>vants,
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Kings <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.23.</note> will the Lord ſay? It went ill with Children that called the Prophet Bald-pate. Bitter words are Arrows that will fall upon their heads who ſhoot them. They who ſlander, reproach, and bear falſe witneſs againſt their neigh<g ref="char:EOLhyphen"/>bours, will find to their ſorrow,
+<pb n="21" facs="tcp:137604:36"/>that God hath chains of wrath which will hold them, when thoſe of his Commands are broken by them.</p>
+            <p n="4">4. Do not they heap and trea<g ref="char:EOLhyphen"/>ſure up wrath, whoſe mouths are full of curſing, ſwearing, profaning,
+<note place="margin">Zech. 5.2, 3.</note> and even blaſpheming the holy Name of God? May not ſuch foreſee a whole roll of judgments coming upon them, yea, flying a<g ref="char:EOLhyphen"/>gainſt them? But I go on to a fifth Inference.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Branch </seg>5</label> If idle words ſhall be accounted for, then the laſt judgment will be exceeding ſtrict.
+<note place="margin">Eccleſ. the laſt.</note> God will bring every ſecret work into open view. Sins which now obtain the favour to be called little,
+<note place="margin">Numb. 32.23.</note> will then appear in their own colours, damnably great. To be ſure, mens faults will then find them out.
+<note place="margin">Judicabit non male judicata. <hi>Burgeſs</hi> of judgment. page 60,</note> Thoſe things which eſcaped mens judg<g ref="char:EOLhyphen"/>ment ſhall abide Gods judgment. The fore-thoughts of this have driven ſome friends and lawful
+<pb n="22" facs="tcp:137604:37"/>delights, to ſpend their times in dens and wilderneſſes; I deſire not that it ſhould have any ſuch effect on my hearers, but that it ſhould drive them to Jeſus Chriſt, and that not only as a ſhelter, but alſo as a Sanctifier; that he who is to be their Judge may be their Advocate. Oh that men walked as if they heard the ſound of the laſt Trumpet, and the voice of the Archangel, ſaying, <hi>Ariſe ye dead, and come to judgment.</hi>
+            </p>
+            <p n="6">6. Seeing idle words are to be reckoned for, this will juſtifie the care,
+<note place="margin">Epheſ. 5.15 <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Leigh</hi> Cr. Sacra.</note> and ſtudy, and ſtritneſs of thoſe who are moſt for walking circumſpectly, preciſely, not only according, but (as much as is poſ<g ref="char:EOLhyphen"/>ſible) up to rule. Should not they be afraid of running on the ſcore, who are ſure to be called to a reckoning. It is a wonder that good men are not much more wa<g ref="char:EOLhyphen"/>ry.</p>
+            <pb n="23" facs="tcp:137604:37"/>
+            <p> The tongue is an huge ſlippery piece, it falleth into empty unedi<g ref="char:EOLhyphen"/>fying diſcourſe before a perſon is well aware. It is uſually obſerved, that Nature hath ſet a double guard upon it, and clear it is, that Grace will not leave it unguarded, but will guide men to beg of God, that he would ſet a watch before their mouthes,
+<note place="margin">Pſal. 14 <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3</note> and keep the doors of their lips.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>2</label> It is now high time to call my ſelf and others to deep humiliati<g ref="char:EOLhyphen"/>on, as for other offences, ſo parti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ularly for our offending with our tongues. Who that hath taken no<g ref="char:EOLhyphen"/>tice of his words, ſeeth not cauſe to cry out with <hi>Job,
+<note place="margin">Job 40.3, 4. Iſai. 6.5.</note> Behold I am vile;</hi> and with <hi>Iſaiah, Wo is me, I am a man of unclean lips.</hi> To bring us ſooner to our knees, be it conſi<g ref="char:EOLhyphen"/>dered,</p>
+            <p n="1">1. Our vain words have been, Multitudes, Multitudes.
+<note place="margin">Pſal. 19:12.</note> Who can underſtand all his errours of this ſort? Who can by ſearching find
+<pb n="24" facs="tcp:137604:38"/>out all his tongue-ſlips? Idl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> words have iſſued from us a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtreams from a fountain. Were no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our childhood and youth vanity i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſelf?
+<note place="margin">Eccleſ. 11. laſt.</note> Have not innumerable evils of this kind compaſſed us a<g ref="char:EOLhyphen"/>bout?</p>
+            <p n="2">2. Our ſins in this kind are in this reſpect more ſinful, becauſe herein God appeared exceeding merciful, in that he created us not only with that excellent power of ſpeaking,
+<note place="margin">Corruptio optimi eſt peſſima.</note> but alſo with wiſdom to order our ſpeech to his honour. What glory might man have given to his Creator, if he had kept that government &amp; rule of his tongue,
+<note place="margin">Iſai. 7. ult.</note> wherewith he was firſt entruſted? That our mouths utter vanity, is not from our creation, but from our corruption. That the thing framed ſhould move in the leaſt to the diſhonour of him that formed it, this is a lamentation.</p>
+            <p n="3">3. Thoſe who have been Gods choice ones, have had their hearts
+<pb n="25" facs="tcp:137604:38"/>affected and afflicted upon this ac<g ref="char:EOLhyphen"/>count. Not only <hi>Job</hi> and <hi>Iſaiah</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yed mainly out for their ſpeak<g ref="char:EOLhyphen"/>ing amiſs,
+<note place="margin">Pſal. 73 22.</note> but <hi>David</hi> ſtileth himſelf <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ooliſh, and ignorant, yea, a very <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſt for this fault.</p>
+            <p n="4">4. If idle ſpeeches be not mat<g ref="char:EOLhyphen"/>ter of our humiliation, they will be matter of our condemnation, if we do not judge our ſelves, we ſhall be judged of the Lord, yea, and condemned with the world.</p>
+            <p n="5">5. The Lord hath ſhewed him<g ref="char:EOLhyphen"/>ſelf gracious to thoſe, who being humbled for their offences of this nature, have through his Son ad<g ref="char:EOLhyphen"/>dreſſed themſelves to him.
+<note place="margin">Iſai. 6 7,</note> When <hi>Iſaiah</hi> had bewailed bitterly the uncleanneſs of his lips,
+<note place="margin">Illi quibus ante diem illum re<g ref="char:EOLhyphen"/>miſſa fue<g ref="char:EOLhyphen"/>rint verba otioſa, ra<g ref="char:EOLhyphen"/>tionis loco remiſſio nem adſe<g ref="char:EOLhyphen"/>rent. <hi>Crad.</hi> from L. <hi>Brugenſis.</hi>
+               </note> he had aſ<g ref="char:EOLhyphen"/>ſurance given him, that his iniqui<g ref="char:EOLhyphen"/>ty was taken a way, and his ſin pur<g ref="char:EOLhyphen"/>ged. Neither is it the ſcope of that terrible Text, with which I have to do, to drive perſons from God, but to drive them in a way of ſin<g ref="char:EOLhyphen"/>lamenting, ſelf-diſclaiming, and
+<pb n="26" facs="tcp:137604:39" rendition="simple:additions"/>Saviour-accepting unto him.
+<note place="margin">Rationem reddent, niſi inte<g ref="char:EOLhyphen"/>rim paeni<g ref="char:EOLhyphen"/>teant. <hi>Carthuſian.</hi> 
+               </note> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>3</label> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> gives a loud call to repentanc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but puts no bar in, nor ſhuts t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> door of hope upon the penitent<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>If notwithſtanding what is ſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſome continue their courſe of id<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unedifying diſcourſe, and reſol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo to do, for ſuch the followin Uſe is moſt proper, which is</p>
+            <p>An Uſe of Reproof to all ſuch who are not careful to ſet an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> keep up the good government <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their tongues. Do not many i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> effect ſay,
+<note place="margin">Pſal. 12.4.</note> Our tongues are ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> own? What Lord ſhall controu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us? They <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> talk at random and not by rule. Whileſt ſome by lying, ſwearing, ſlandering and reviling break out, others think i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fair, if they keep in and forbea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> theſe abominations; barrenneſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in, and backwardneſs to holy hea<g ref="char:EOLhyphen"/>venly conferrings is no fault in their account. Oh that ſuch would ſeriouſly conſider,</p>
+            <p n="1">
+               <pb n="27" facs="tcp:137604:39"/> 1. They have upon them the black brand of unregeneracy. If Grace have its throne in the heart, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t will have a great command and influence upon the tongue.
+<note place="margin">Zeph. 3 9.</note> When the Lord gives perſons a thorough turn to himſelf, he turneth to them a pure lip or language.
+<note place="margin">Pſal. 45.2.</note> Grace was poured into the lips of Chriſt the Head, and in ſome meaſure it is poured into the lips of Chriſtians his Members. Speaking the lan<g ref="char:EOLhyphen"/>guage of <hi>Canaan,</hi> is ſo ſure an ef<g ref="char:EOLhyphen"/>fect of ſound converſion, that when the converſion of five Cities in the Land of <hi>Egypt</hi> is foretold,
+<note place="margin">Iſai. 19.18.</note> it is ſaid expreſly, <hi>They ſhall ſpeak the language of</hi> Canaan.</p>
+            <p n="2">2. God will not for the ſake of any rank or ſort of men, vary from his word of truth, or ſuffer a tittle of it to paſs away. They cannot eſcape who live and dye in neglect of warnings of Heaven. Wo, wo, wo, will be to thoſe,
+<note place="margin">Mat. 5.18,</note> who having not their tongues tyed to
+<pb n="28" facs="tcp:137604:40" rendition="simple:additions"/>their good behaviour, have n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hopes of being acquitted in judg<g ref="char:EOLhyphen"/>ment, except the Lord alter wha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he hath in my Text written.</p>
+            <p>May I prevail with the guilty to give a ſober Anſwer to theſe ſe<g ref="char:EOLhyphen"/>rious Queſtions.</p>
+            <p n="1">1. Do you think that my Text was ſpoken and written only t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſcare and affright men, and not t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> inform them truly in what an ex<g ref="char:EOLhyphen"/>act way the Lord will proceed a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the laſt day? Is not this to charge him falſhhood who is truth it ſelf<g ref="char:punc">▪</g>
+            </p>
+            <p n="2">2. Will you ſay that God is merciful? God forbid I ſhould gainſay you, or in the leaſt repre<g ref="char:EOLhyphen"/>ſent that bleſſed hand as narrower than indeed it is! yet all may and muſt know, that though it be ſaid, Gods tender mercies are over or upon all his works;
+<note place="margin">Pſal. 145.9.</note> yet it is not ſaid, that they are above or againſt all his other Attributes. His truth revealed in my Text will ſtand to<g ref="char:EOLhyphen"/>gether with his mercy. His wiſ<g ref="char:EOLhyphen"/>dom
+<pb n="29" facs="tcp:137604:40"/>is ſhewed in ſhewing the greateſt mercy (even his ſalvati<g ref="char:EOLhyphen"/>on) to thoſe who will give him the glory of it.</p>
+            <p>And though (as that excellent Pen,
+<note place="margin">Cauſes of decay, page 169.</note> to whom I have formerly re<g ref="char:EOLhyphen"/>ferred, hath written) we are apt to proportion Gods juſtice, not according to its infiniteneſs, but our own concerns, making it ſerve only as a cypher to advance his mercy; yet it will appear, that the divine Attributes are not in ſtrife but perfect harmony, and ra<g ref="char:EOLhyphen"/>ther than the juſtice of God ſhall ſuffer, men and women ſhall ſuffer everlaſtingly.</p>
+            <p n="3">3. With what terrour and trembling of heart will they, who get not a Bridle for the Tongue,
+<note place="margin">2 Cor. 5.</note> appear before the Judge of all the world? What an amazing ſight will it be to ſee their other ſins, and with them their idle words,
+<note place="margin">10, 11.</note> ſet as an Army in rank and file be<g ref="char:EOLhyphen"/>fore them? They cannot poſſibly
+<pb n="30" facs="tcp:137604:41"/>ſtand right and upright in tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> high Court,
+<note place="margin">Recti in curia.</note> their Conſciences wi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſecond and ſet in with the ſentenc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which God ſhall paſs againſt them It will be evident upon what ho<g ref="char:EOLhyphen"/>nourable terms forgiveneſs wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> offered to them, and that upo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their having recourſe to the Grac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Spirit of God, they migh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have had their ſpeech ſeaſone and ſanctified. How dreadful wi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> every word in their doom be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Depart from me.</hi> That is, ſay ſome the hell of hell. The puniſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of ſenſe is beyond what <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> conceived; yet great Divines ſay that it is not abſolutely infinite<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> The damned (ſay they) ſuffe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> finite wrath in an infinite durati<g ref="char:EOLhyphen"/>on;
+<note place="margin">See <hi>Norton</hi> of Chriſts ſufferings.</note> but the puniſhment of loſs i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> infinite, it is the loſs of an infinit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God. That men and women mu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> never come in (or near) God gracious comforting preſenc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> more;
+<note place="margin">Mat. 25.</note> oh how dreadful is this ſeeing they muſt depart with
+<pb n="31" facs="tcp:137604:41"/>curſe, with Gods curſe, and that in<g ref="char:EOLhyphen"/>to fire, which all know is of a tor<g ref="char:EOLhyphen"/>menting nature, yea, into everlaſt<g ref="char:EOLhyphen"/>ing fire, a fire that cannot be quen<g ref="char:EOLhyphen"/>ched, yea, a fire prepared for that worſt of Apoſtates, the Devil, and his Angels.</p>
+            <p>Hoping that ſome who were ſe<g ref="char:EOLhyphen"/>cure may be by Grace awakened, and crying out, What ſhall we do? How ſhall we ever come to read and weigh this Text with com<g ref="char:EOLhyphen"/>fort? How ſhall we obtain the right rule of our tongues? To <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> direct my firſt Exhortation.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>4</label> 1. Be willing to fix your eyes and hearts upon your tranſgreſſi<g ref="char:EOLhyphen"/>ons, whether with your tongues, or otherwiſe. Cheriſh the Spirit of reproving and convincing you, let<g ref="char:EOLhyphen"/>ting you ſee ſin as by Sun-light,
+<note place="margin">John 16.8, 9.</note> ſhowing you as the ſins of your lives, ſo the ſinfulneſs of your hearts. How bitter is that root, whereof idle ſpeaking is but one branch?</p>
+            <p n="2">
+               <pb n="32" facs="tcp:137604:42" rendition="simple:additions"/> 2. Having muſed on the great<g ref="char:EOLhyphen"/>neſs of your ſins, beware of carnal confidence and truſting to your ſelves. Makeful account of this, that if you were only chargeable with the ſin of ſpeaking idly, this ſin hath ſo violated the Law, and wronged the Juſtice of God, that though you ſhould faſt and pray, ſorrow and ſuffer to your utmoſt, yet could you not thereby ſatisfie for, or deſerve the pardon of tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſin; there is no Balm ſave that o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Gilead</hi> (or rather of the Goſpel) that is ſoveraign; neither is there any Phyſitian ſave him that is in <hi>Iſrael</hi> that can heal in this caſe. When bleſſed <hi>Paul</hi> thought of the ſearch which the Law and Juſtice of God might make for him,
+<note place="margin">Philip. 3. 7, 8.</note> his deſire was, to be found in Chriſt, not having his own righteouſneſs, not for having it as to ſet it up in the room of Chriſts Righte<g ref="char:EOLhyphen"/>ouſneſs.</p>
+            <p n="3">
+               <pb n="33" facs="tcp:137604:42" rendition="simple:additions"/> 3. Bleſs not your ſelves in any ſtate which is ſhort of ſaving uni<g ref="char:EOLhyphen"/>on with the Lord Jeſus Chriſt.
+<note place="margin">John 1.7, 9.</note> His blood cleanſeth from all ſin, and ſo from tongue-ſins; but it only cleanſeth thoſe to whom it is ap<g ref="char:EOLhyphen"/>plyed; neither is it applyed to or by any ſave thoſe that are in him. Happy are they for whom he will plead,
+<note place="margin">John 1.2.</note> who have this Advocate with the Father, in whoſe lips no guile, no guilt, nothing of idle<g ref="char:EOLhyphen"/>neſs was found, whoſe righteouſ<g ref="char:EOLhyphen"/>neſs will cover thoſe, whoſe na<g ref="char:EOLhyphen"/>kedneſs would otherwiſe appear ſhameful. Though the fig-leaves of your own doings will not hide you from the wrath of God, yet the leaves of the Tree of Life will do it thoroughly.</p>
+            <p n="4">4. Beg and wait for new renew<g ref="char:EOLhyphen"/>ed hearts, and for the reſidence and influence of the Holy Ghoſt in and on your hearts.
+<note place="margin">Pſal. 45.1. Mat. 62.35.</note> The tree muſt be good before the fruit can be ſo: Your hearts muſt indite
+<pb n="34" facs="tcp:137604:43"/>good matters before your tongue<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> can be as the pens of ready Wri<g ref="char:EOLhyphen"/>ters to expreſs them.
+<note place="margin">Pſal. 139.2, 3.</note> Get know<g ref="char:EOLhyphen"/>ing hearts, apprehenſive that there is not a word in your tongues bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God knoweth it altogether. Ge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tender hearts, that will be loth to affront and provoke him in miſ<g ref="char:EOLhyphen"/>placing a word, and that your hearts may be preſerved in a watchful frame, pray down the aſſiſtance of Gods bleſſed Spiri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on all occaſions.</p>
+            <p>My next word ſhall be to thoſe whoſe hearts are principled with Grace,
+<note place="margin">James 3.2.</note> and I doubt not but they will ſuffer a word of exhortati<g ref="char:EOLhyphen"/>on: Though others leave their tongues unbridled, you ſhould not do ſo.</p>
+            <p n="1">1. You have too often already let down your watch over your mouthes. I know your Conſci<g ref="char:EOLhyphen"/>ences will tell you, that at ſuch a
+<pb n="35" facs="tcp:137604:43"/>time, and in ſuch a company, your tongues ſlipped, your diſcourſe was little worth. Should not the time paſt be ſufficient to have of<g ref="char:EOLhyphen"/>fended in?</p>
+            <p n="2">2. Without care (eminent care) your tongues will not be duly governed.
+<note place="margin">Pſal. 116.106.33.</note> Did not holy <hi>David</hi> ſpeak in his haſte what he ought not? Did not meek <hi>Moſes</hi> ſpeak unadviſedly? Who are you, that you ſhould think tongue-ſlips leſs incident to you? You have probably heard of him, who having by a Tutor the reſo<g ref="char:EOLhyphen"/>lution of <hi>David,</hi>
+               <note place="margin">Pſal. 39.1.</note> 
+               <hi>To take heed leſt be offend with his tongue,</hi> given him for his firſt Leſſon, and being enquired of, why he came not for a new one? anſwered, that he had not learned that perfectly, you may be learning, whileſt you are living, to ſpeak to purpoſe.</p>
+            <p n="3">
+               <pb n="36" facs="tcp:137604:44"/> 3. You have that power to rule your tongues which many want. If Gods Garden be full of weeds (of idle words) what can be looked for in the Wilderneſs? The lips of Chriſts Spouſe do drop ſweetly,
+<note place="margin">Cant. 4.11.</note> even as an Honey-comb. If Vines bear not Grapes, where ſhould they grow? If you have not <hi>Jacob</hi>'s voice, how will you prove your ſelves to be of <hi>Jacob</hi>'s ſeed? How can it appear that you belong to that better Countrey, which is above, if you do not ſpeak the language of it?</p>
+            <p n="4">4. The honour of Religion is deeply concerned in your ſpeeches.
+<note place="margin">Jer. 20.10.</note> Many will watch for your halting in your words; they who would make you offenders for a good word, will be ſure to make ill uſe of your offending i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you utter an idle word. As you
+<pb n="37" facs="tcp:137604:44"/>ſhould not be vicious, ſo you ſhould not be ſcandalous. Are not you loth that the profeſſion of godlineſs ſhould be wounded through your ſides.</p>
+            <p n="5">5. The more afraid you are not to offend in words,
+<note place="margin">James 3.2.</note> the more you have of ſincerity, and the more near you come to perfection. Though the tongue be a little member, much Grace goeth to the ruling of it.</p>
+            <p>That I may be an helper of your holineſs, and ſo of your joy, I ſhall offer you the enſuing helps.</p>
+            <p n="1">1.
+<note place="margin">Directions</note> Renew your humiliation for your former failures in your ſpeech.
+<note place="margin">2 Cor. 7.10.</note> Godly ſorrow for ſin tendeth to work repentance and returning from ſin. The ſofter the heart is, the bet<g ref="char:EOLhyphen"/>ter
+<pb n="38" facs="tcp:137604:45"/>governed will the tongue be.</p>
+            <p n="2">2. Obſerve well how ill idle words do become others. Can you not ſoon eſpy the nakedneſs of your brethren, when they let their tongues looſe.
+<note place="margin">Faelix quem fa<g ref="char:EOLhyphen"/>ciunt, &amp;c.</note> Will you practiſe your ſelves, what you condemn in others? Shall not others harms be your warnings? Shall not their falls make you to ſtand more carefully upon your watch?</p>
+            <p n="3">3. Engage ſome true truſty friends to admoniſh you when they hear you ſpeaking amiſs. Your ſins may lye ſo near you,
+<note place="margin">Pſal. 141.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> that you cannot ſo eaſily ſee them. Who doth not ſtand in need of an Overſeer? The wounds of a friend that doth faithfully re<g ref="char:EOLhyphen"/>prove are of an healing nature.</p>
+            <p n="4">
+               <pb n="39" facs="tcp:137604:45"/> 4. Do not affect talking more than your part. The wiſe man hath long ago determined, that <hi>in the multitude of words there wanteth not ſin.</hi>
+               <note place="margin">Prov. 10.14.</note> If the tongue move too frequently, its motion is leſs like to be regular. If your words be few, they are likely to be better placed.</p>
+            <p n="5">5. Often call your ſelves to an account about your ſpeeches. They that caſt up their books frequently will be loth to run into debt. You that are to give a ſtrict account to God, ought to take a ſtrict account of your ſelves. If you would ſtand in awe and not ſin,
+<note place="margin">Pſal. 4.4.</note> commune much with your own hearts.</p>
+            <p n="6">6. Shun the ſociety of vain perſons. You have the ſeeds of in remaining in your own hearts,
+<note place="margin">Pſal. 26.4.</note> and if you be with idle compani<g ref="char:EOLhyphen"/>ons,
+<pb n="40" facs="tcp:137604:46"/>they will quickly draw them out into your tongues. You may as ſoon walk in the ſcorching Sun, and not be tann'd, as converſe un<g ref="char:EOLhyphen"/>neceſſarily with fooliſh talkers, and not be prejudiced.</p>
+            <p n="7">7. Beware of being tranſported with your paſſions, particularly that of anger.
+<note place="margin">I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a furor brevis.</note> Anger hath been long called a madneſs, and it is leſs wonder if mad men talk idly.</p>
+            <p n="8">8. Weigh your words before you ſpeak them.
+<note place="margin">Bis ad l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am, ſemel ad lin<g ref="char:EOLhyphen"/>guam. Pſal. 105.</note> They who ſhoot their bolts ſooneſt are leaſt likely to hit the mark. Can it be expected, that they who ſpeak raſhly ſhould ſpeak in print. When <hi>Moſes</hi> himſelf ſpake unadviſedly, (and in haſte) he had leiſure to repent o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it.</p>
+            <p n="9">
+               <pb n="41" facs="tcp:137604:46"/> 9. Keep your hearts above all keeping.
+<note place="margin">Prov. 4.23</note> There is a ſtring be<g ref="char:EOLhyphen"/>twixt the tongue and the heart. Out of the heart are the iſſues of life. If your hearts be in an humble, holy, heavenly frame, your tongues will be as trees of life. The ſtream will ſavour of the fountain.</p>
+            <p n="10">10. Bind your tongues (with freſh and firm cords of reſoluti<g ref="char:EOLhyphen"/>on) to their good behaviour: Lay a Law upon them. If you do miſplace a word, be ſure that it be not on purpoſe, but againſt purpoſe.
+<note place="margin">Pſal. 39.1.</note> Holy <hi>David</hi> ſaid in his heart, he would take heed in this reſpect.</p>
+            <p n="11">11. Have ſtore of ſpiritual and profitable ſubjects at hand to di<g ref="char:EOLhyphen"/>ſcourſe of.
+<note place="margin">Col. 3.16</note> Let the Word of God dwell richly in you: Guide your tongues into a large, ſpaci<g ref="char:EOLhyphen"/>ous
+<pb n="40" facs="tcp:137604:47"/>and ſweet field, where they may walk with profit and com<g ref="char:EOLhyphen"/>fort. Inure and accuſtom your ſelves to <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lifying conference.</p>
+            <p n="12">12. In the exerciſe of humble, earneſt, believing prayers, depend on God for the guidance of your lips. Cry to him as the ſweet Pſalmiſt did,
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> that he would keep this door.
+<note place="margin">Prov. 16 1</note> 
+               <hi>The anſwer of the tongue is from the Lord.</hi>
+            </p>
+            <p>My laſt Word ſhall be by way of Conſolation to thoſe with whom theſe directions take place.
+<note place="margin">The laſt Uſe.</note> You who can ſay, and ſay truly, you fall on your knees to mourn daily for the ſlips of your tongues, you deſire to be filled with the Spirit, that you may ſpeak to the honour of God, you would have your tongues to be as choice ſil<g ref="char:EOLhyphen"/>ver, comfort ye, comfort ye.</p>
+            <pb n="41" facs="tcp:137604:47"/>
+            <p> Your tongues that ſet forth Gods glory here, ſhall be fully fitted to ſing <hi>Hallelujah; hallelujah, Salvation, bleſſing and praiſe to the moſt High for ever hereafter.</hi> Though tongues ſhall ceaſe in Heaven, that is, as ſome interpret it, there ſhall be no uſe of ſeveral languages, yet as the Seraphims do, ſo the Saints ſhall cry, <hi>Holy, ho<g ref="char:EOLhyphen"/>ly, holy, Lord God of Sabbaths!</hi> the higheſt praiſes of God will be in their mouths, world without end.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
